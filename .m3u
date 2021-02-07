@@ -1,333 +1,787 @@
 #EXTM3U
-#EXTINF:-1,ES | La Ligatv bar FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30611.ts
-#EXTINF:-1,ES | La Ligatv bar
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30612.ts
-#EXTINF:-1,ES | La Liga TV Bar (Backup)
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30613.ts
-#EXTINF:-1,ES | La Liga TV Bar 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30614.ts
-#EXTINF:-1,ES | La Liga TV Bar 4
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30616.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30628.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30629.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES1 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30630.ts
-#EXTINF:-1,ES | Movistar LALIGA FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30640.ts
-#EXTINF:-1,ES | Movistar LALIGA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30641.ts
-#EXTINF:-1,ES | BEIN LaLiga 1 (Backup)
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30642.ts
-#EXTINF:-1,ES | Movistar LALIGA 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30643.ts
-#EXTINF:-1,ES | BEIN LALIGA 3 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30644.ts
-#EXTINF:-1,ES | BEIN LALIGA 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30645.ts
+#EXTINF:-1,ES | DAZN SPORTS 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30653.ts
+#EXTINF:-1,ES | DAZN SPORTS 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30654.ts
+#EXTINF:-1,ES | DAZN SPORTS 3 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30655.ts
 #EXTINF:-1,La Liga123 FHD
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/214696.ts
 #EXTINF:-1,Liga123 HD
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/214699.ts
-#EXTINF:-1,ES: beIN Sports LaLiga HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215329.ts
-#EXTINF:-1,[SP] BEIN_LALIGA_1HD
-http://mynetworks.info:80/ashraf333/333ashraf/2177
-#EXTINF:-1,(ES) Movistar LaLiga 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/16510
-#EXTINF:-1,(ES) Movistar Liga de Campeones 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/16512
-#EXTINF:-1,|SP| LALIGA TV BAR
-http://rv.therevenge.co:80/5172668317/7249490798/79308
-#EXTINF:-1,|SP| LALIGA TV BAR 1
-http://rv.therevenge.co:80/5172668317/7249490798/79307
-#EXTINF:-1,|SP| BEIN LALIGA HD
-http://rv.therevenge.co:80/5172668317/7249490798/79306
-#EXTINF:-1,|SP| BEIN LALIGA1 HD
-http://rv.therevenge.co:80/5172668317/7249490798/79305
-#EXTINF:-1,|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/5172668317/7249490798/79291
-#EXTINF:-1,|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/5172668317/7249490798/79290
-#EXTINF:-1,|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/5172668317/7249490798/79289
-#EXTINF:-1,|SP|HEVC| LALIGA TV BAR
-http://rv.therevenge.co:80/5172668317/7249490798/79188
-#EXTINF:-1,|SP|HEVC| LALIGA TV BAR 1
-http://rv.therevenge.co:80/5172668317/7249490798/79187
-#EXTINF:-1,|SP|HEVC| BEIN LALIGA HD
-http://rv.therevenge.co:80/5172668317/7249490798/79186
-#EXTINF:-1,|SP|HEVC| BEIN LALIGA1 HD
-http://rv.therevenge.co:80/5172668317/7249490798/79185
-#EXTINF:-1,|SP|HEVC| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/5172668317/7249490798/79171
-#EXTINF:-1,|SP|HEVC| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/5172668317/7249490798/79170
-#EXTINF:-1,|SP|HEVC| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/5172668317/7249490798/79169
-#EXTINF:-1,ESP: LA LIGA TV BAR
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55409
-#EXTINF:-1,SP: LA LIGA TV FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55410
-#EXTINF:-1,SP: M.LIGA DE CAMPEONES FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55411
-#EXTINF:-1,SP: MOVISTAR LALIGA FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55412
-#EXTINF:-1,beIN Sports La Liga
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14251.ts
-#EXTINF:-1,UK: beIN Sports La Liga | HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78778
-#EXTINF:-1,ES | M.LIGA CAMPEONES FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30628.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30629.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES1 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30630.ts
-#EXTINF:-1,(SP-4K) M.LCAMPEONES
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/1860
-#EXTINF:-1,(ES) Movistar Liga de Campeones 4K+
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/16512
-#EXTINF:-1,|SP| M.LCAMPEONES
-http://rv.therevenge.co:80/5172668317/7249490798/79309
-#EXTINF:-1,|SP|HEVC| M.LCAMPEONES
-http://rv.therevenge.co:80/5172668317/7249490798/79189
-#EXTINF:-1,SP: M.LIGA DE CAMPEONES FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55411
-#EXTINF:-1,CA: beIN Sports
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/30870.ts
-#EXTINF:-1,CA: BEIN SPORTS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/68020.ts
-#EXTINF:-1,CAN: Bein Sports (TV)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53986
-#EXTINF:-1,FR:BeinSport1
-http://mynetworks.info:80/ashraf333/333ashraf/7718
-#EXTINF:-1,FR:BeinSport2
-http://mynetworks.info:80/ashraf333/333ashraf/7716
-#EXTINF:-1,FR:BeinSport3
-http://mynetworks.info:80/ashraf333/333ashraf/7714
-#EXTINF:-1,FR:BeinSport1.HD
-http://mynetworks.info:80/ashraf333/333ashraf/7717
-#EXTINF:-1,FR:BeinSport2.HD
-http://mynetworks.info:80/ashraf333/333ashraf/7715
-#EXTINF:-1,FR:BeinSport3.HD
-http://mynetworks.info:80/ashraf333/333ashraf/7713
-#EXTINF:-1,FR:BeinSport.Max4
-http://mynetworks.info:80/ashraf333/333ashraf/7712
-#EXTINF:-1,FR:BeinSport.Max5
-http://mynetworks.info:80/ashraf333/333ashraf/7711
-#EXTINF:-1,FR:BeinSport.Max6
-http://mynetworks.info:80/ashraf333/333ashraf/7710
-#EXTINF:-1,FR:BeinSport.Max7
-http://mynetworks.info:80/ashraf333/333ashraf/7709
-#EXTINF:-1,FR:BeinSport.Max8
-http://mynetworks.info:80/ashraf333/333ashraf/7708
-#EXTINF:-1,FR:beinsport1.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7568
-#EXTINF:-1,FR:beinsports2.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7567
-#EXTINF:-1,FR:beinsports3.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7566
-#EXTINF:-1,FR:beinsports4.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7565
-#EXTINF:-1,FR:beinsports5.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7564
-#EXTINF:-1,FR:beinsports6.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7563
-#EXTINF:-1,FR:beinsports7.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7562
-#EXTINF:-1,FR:beinsports8.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7561
-#EXTINF:-1,FR:beinsports9.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7560
-#EXTINF:-1,FR:beinsports10.SD
-http://mynetworks.info:80/ashraf333/333ashraf/7559
-#EXTINF:-1,BEIN SPORTS 1 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3697.ts
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3698.ts
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3699.ts
-#EXTINF:-1,BeIN Sports 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3700.ts
-#EXTINF:-1,BeIN Sports 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3701.ts
-#EXTINF:-1,BeIN Sports 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3702.ts
-#EXTINF:-1,BeIN Sports MAX 4
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3703.ts
-#EXTINF:-1,BeIN Sports MAX 5
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3704.ts
-#EXTINF:-1,BeIN Sports MAX 6
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3705.ts
-#EXTINF:-1,BeIN Sports MAX 7
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3706.ts
-#EXTINF:-1,BeIN Sports MAX 8
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3707.ts
-#EXTINF:-1,BeIN Sports MAX 9
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3708.ts
-#EXTINF:-1,BeIN Sports MAX 10
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/3709.ts
-#EXTINF:-1,(FR-HD) BEIN SPORT 1 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12605
-#EXTINF:-1,(FR-HD) BEIN SPORT 2 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12604
-#EXTINF:-1,(FR-HD) BEIN SPORT 3 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12603
-#EXTINF:-1,(FR-HD) BEIN SPORT MAX 4 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12602
-#EXTINF:-1,(FR-HD) BEIN SPORT MAX 5 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12601
-#EXTINF:-1,(FR-HD) BEIN SPORT MAX 6 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12600
-#EXTINF:-1,(FR-HD) BEIN SPORT MAX 7 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12599
-#EXTINF:-1,(FR-HD) BEIN SPORT MAX 8 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12598
-#EXTINF:-1,(FR-HD) BEIN SPORT MAX 9 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12597
-#EXTINF:-1,(FR-HD) BEIN SPORT MAX 10 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12596
-#EXTINF:-1,(FR-4K) BEIN SPORT 1 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12563
-#EXTINF:-1,(FR-4K) BEIN SPORT 2 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12562
-#EXTINF:-1,(FR-4K) BEIN SPORT 3 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12561
-#EXTINF:-1,(FR-SD) BEIN SPORT 1 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12528
-#EXTINF:-1,(FR-SD) BEIN SPORT 2 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12527
-#EXTINF:-1,(FR-SD) BEIN SPORT 3 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12526
-#EXTINF:-1,ES | BEIN LaLiga 1 (Backup)
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30642.ts
-#EXTINF:-1,ES | BEIN LALIGA 3 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30644.ts
-#EXTINF:-1,ES | BEIN LALIGA 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30645.ts
 #EXTINF:-1,ES: beIN Sports HD
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215328.ts
 #EXTINF:-1,ES: beIN Sports LaLiga HD
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215329.ts
 #EXTINF:-1,ES: beIN Sports Ñ HD
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215330.ts
-#EXTINF:-1,[SP] BEIN_LALIGA_1HD
-http://mynetworks.info:80/ashraf333/333ashraf/2177
-#EXTINF:-1,|SP| BEIN LALIGA HD
-http://rv.therevenge.co:80/5172668317/7249490798/79306
-#EXTINF:-1,|SP| BEIN LALIGA1 HD
-http://rv.therevenge.co:80/5172668317/7249490798/79305
-#EXTINF:-1,|SP|HEVC| BEIN LALIGA HD
-http://rv.therevenge.co:80/5172668317/7249490798/79186
-#EXTINF:-1,|SP|HEVC| BEIN LALIGA1 HD
-http://rv.therevenge.co:80/5172668317/7249490798/79185
-#EXTINF:-1,beIN Sports 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14239.ts
-#EXTINF:-1,beIN Sports 10
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14248.ts
-#EXTINF:-1,beIN Sports 11
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/37893.ts
-#EXTINF:-1,UK: beIN Sports 12 | HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14249.ts
-#EXTINF:-1,beIN Sports 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14240.ts
-#EXTINF:-1,beIN Sports 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14241.ts
-#EXTINF:-1,beIN Sports 4
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14242.ts
-#EXTINF:-1,beIN Sports 5
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14243.ts
-#EXTINF:-1,beIN Sports 6
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14244.ts
-#EXTINF:-1,beIN Sports 7
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14245.ts
-#EXTINF:-1,beIN Sports 8
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14246.ts
-#EXTINF:-1,beIN Sports 9
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14247.ts
-#EXTINF:-1,beIN Sports En Espanyol
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14250.ts
-#EXTINF:-1,beIN Sports La Liga
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14251.ts
-#EXTINF:-1,beIN Sports USA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14238.ts
-#EXTINF:-1,(UK-HD) BEIN SPORT HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4929
-#EXTINF:-1,(UK-HD) BEIN SPORTS NBA HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4928
-#EXTINF:-1,(UK-HD) BEIN SPORT NEWS HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4927
-#EXTINF:-1,(UK-HD) BEIN SPORTS 1 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4926
-#EXTINF:-1,(UK-HD) BEIN SPORTS 2 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4925
-#EXTINF:-1,(UK-HD) BEIN SPORTS 3 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4924
-#EXTINF:-1,(UK-HD) BEIN SPORTS 4 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4923
-#EXTINF:-1,(UK-HD) BEIN SPORTS 5 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4922
-#EXTINF:-1,(UK-HD) BEIN SPORTS 6 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4921
-#EXTINF:-1,(UK-HD) BEIN SPORTS 7 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4920
-#EXTINF:-1,(UK-HD) BEIN SPORTS 8 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4919
-#EXTINF:-1,(UK-HD) BEIN SPORTS 9 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4918
-#EXTINF:-1,(UK-HD) BEIN SPORTS 10 HD OLYMPIC
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4917
-#EXTINF:-1,(UK-HD) BEIN SPORTS 11 HD EN
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4916
-#EXTINF:-1,(UK-HD) BEIN SPORTS 12 HD EN
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4915
-#EXTINF:-1,(UK-HD) BEIN SPORTS 13 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4914
-#EXTINF:-1,(UK-HD) BEIN SPORTS 14 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4913
-#EXTINF:-1,(UK-HD) BEIN SPORTS 15 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4912
-#EXTINF:-1,(UK-HD) BEIN SPORTS 16 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4911
-#EXTINF:-1,UK: beIN Sports 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78765
-#EXTINF:-1,UK: beIN Sports 10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78766
-#EXTINF:-1,UK: BEIN SPORTS 11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78767
-#EXTINF:-1,UK: BEIN SPORTS 12
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78768
-#EXTINF:-1,UK: beIN Sports 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78769
-#EXTINF:-1,UK: BEIN SPORTS 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78770
-#EXTINF:-1,UK: beIN Sports 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78771
-#EXTINF:-1,UK: beIN Sports 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78772
-#EXTINF:-1,UK: beIN Sports 6
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78773
-#EXTINF:-1,UK: beIN Sports 7
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78774
-#EXTINF:-1,UK: beIN Sports 8
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78775
-#EXTINF:-1,UK: beIN Sports 9
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78776
-#EXTINF:-1,UK: beIN Sports En Espanyol | HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78777
-#EXTINF:-1,UK: beIN Sports La Liga | HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78778
-#EXTINF:-1,UK: beIN Sports USA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78779
-#EXTINF:-1,UK: Bein Sport 11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78891
-#EXTINF:-1,USA: Bein Sports USA HD
-http://mynetworks.info:80/ashraf333/333ashraf/8028
-#EXTINF:-1,USA:BeinSports.usa
-http://mynetworks.info:80/ashraf333/333ashraf/5736
-#EXTINF:-1,BEIN SPORTS ENG HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1,BEIN ESPANIOL HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1,LA: TIGO SPORT CR 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/242950.ts
+#EXTINF:-1,LA: TIGO SPORTS 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/242951.ts
+#EXTINF:-1,LA: TIGO SPORTS 3 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/242952.ts
+#EXTINF:-1,*--- SPORTS ---*
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/214269.ts
+#EXTINF:-1,AU: FOX SPORTS 501
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298009.ts
+#EXTINF:-1,AU: FOX SPORTS 502
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298010.ts
+#EXTINF:-1,AU: FOX SPORTS 503
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298011.ts
+#EXTINF:-1,AU: FOX SPORTS 504 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298012.ts
+#EXTINF:-1,AU: FOX SPORTS 505
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298013.ts
+#EXTINF:-1,AU: FOX SPORTS 506
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298014.ts
+#EXTINF:-1,AU: FOX SPORTS 507
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298015.ts
+#EXTINF:-1,AU: FOX SPORTS News
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298016.ts
+#EXTINF:-1,MySports 1 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297369.ts
+#EXTINF:-1,MySports 2 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297370.ts
+#EXTINF:-1,MySports 4 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297371.ts
+#EXTINF:-1,MySports 5 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297372.ts
+#EXTINF:-1,MySports 6 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297373.ts
+#EXTINF:-1,MySports 7 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297374.ts
+#EXTINF:-1,MySports 8 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297375.ts
+#EXTINF:-1,MySports 9 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/297376.ts
+#EXTINF:-1,VIP Arena Sport 1 srb FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28333.ts
+#EXTINF:-1,VIP Arena Sport 2 srb FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28334.ts
+#EXTINF:-1,VIP Arena Sport 3 srb FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28335.ts
+#EXTINF:-1,VIP Arena Sport 4 srb FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28336.ts
+#EXTINF:-1,VIP Arena Sport 5 srb FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28337.ts
+#EXTINF:-1,VIP Arena Sport 1 Srb
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28338.ts
+#EXTINF:-1,VIP Arena Sport 2 Srb
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28339.ts
+#EXTINF:-1,VIP Arena Sport 3 Srb
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28340.ts
+#EXTINF:-1,VIP Arena Sport 4 Srb
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28341.ts
+#EXTINF:-1,VIP Arena Sport 5 Srb
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28342.ts
+#EXTINF:-1,VIP Arena Sport 1 HD Hr
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28343.ts
+#EXTINF:-1,VIP Arena Sport 2 HD Hr
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28344.ts
+#EXTINF:-1,VIP Arena Sport 3 HD Hr
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28345.ts
+#EXTINF:-1,VIP Arena Sport 4 HD Hr
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28346.ts
+#EXTINF:-1,VIP Arena Sport 5 HD Hr
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28347.ts
+#EXTINF:-1,VIP Arena Sport 6 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28348.ts
+#EXTINF:-1,VIP Arena Sport  BIH
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28349.ts
+#EXTINF:-1,VIP Sport Klub HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28350.ts
+#EXTINF:-1,VIP Sport Klub 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28351.ts
+#EXTINF:-1,VIP Sport Klub 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28352.ts
+#EXTINF:-1,VIP Sport Klub 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28353.ts
+#EXTINF:-1,VIP Sport Klub 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28354.ts
+#EXTINF:-1,VIP Sport Klub 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28355.ts
+#EXTINF:-1,VIP Sport Klub 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28356.ts
+#EXTINF:-1,AU: FOX SPORTS 501
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284350.ts
+#EXTINF:-1,AU: FOX SPORTS 502
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284351.ts
+#EXTINF:-1,AU: FOX SPORTS 503
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284352.ts
+#EXTINF:-1,AU: FOX SPORTS 504
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284353.ts
+#EXTINF:-1,AU: FOX SPORTS 505
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284354.ts
+#EXTINF:-1,AU: FOX SPORTS 506
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284355.ts
+#EXTINF:-1,AU: FOX SPORTS 507
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284356.ts
+#EXTINF:-1,AU: FOX SPORTS NEWS
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284357.ts
+#EXTINF:-1,AU: beIN Sports 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284423.ts
+#EXTINF:-1,AU: beIN Sports 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284424.ts
+#EXTINF:-1,AU: beIN Sports 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284425.ts
+#EXTINF:-1,VIP Sos
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28357.ts
+#EXTINF:-1,VIP HnTv
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28358.ts
+#EXTINF:-1,VIP Nova Sport
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28359.ts
+#EXTINF:-1,VIP Planet Sport 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28360.ts
+#EXTINF:-1,VIP Planet Sport 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28361.ts
+#EXTINF:-1,VIP Eurosport 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28362.ts
+#EXTINF:-1,VIP Eurosport 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28363.ts
+#EXTINF:-1,VIP TSN 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28365.ts
+#EXTINF:-1,VIP TSN 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28366.ts
+#EXTINF:-1,VIP TSN 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28367.ts
+#EXTINF:-1,VIP TSN 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28368.ts
+#EXTINF:-1,VIP TSN 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28369.ts
+#EXTINF:-1,VIP ESPN News
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28370.ts
+#EXTINF:-1,VIP ESPN
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28371.ts
+#EXTINF:-1,VIP ESPN 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28372.ts
+#EXTINF:-1,VIP ESPN U
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28373.ts
+#EXTINF:-1,VIP Sportsnet 360
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28374.ts
+#EXTINF:-1,VIP Sportsnet One
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28375.ts
+#EXTINF:-1,VIP SportsNet West
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28376.ts
+#EXTINF:-1,VIP SportsNet East
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28377.ts
+#EXTINF:-1,VIP Sportsnet World
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28378.ts
+#EXTINF:-1,VIP NFL Network
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28379.ts
+#EXTINF:-1,VIP NFL Redzone
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28380.ts
+#EXTINF:-1,VIP NHL Network
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28381.ts
+#EXTINF:-1,VIP NBA TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28382.ts
+#EXTINF:-1,VIP Tennis Channel
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28383.ts
+#EXTINF:-1,VIP Fox Sport 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28384.ts
+#EXTINF:-1,VIP Fox Sport 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28385.ts
+#EXTINF:-1,VIP Sky Sports News
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28386.ts
+#EXTINF:-1,VIP Sky Sports Mix
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28387.ts
+#EXTINF:-1,VIP Sky Sports Main Events
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28388.ts
+#EXTINF:-1,VIP Sky Sport Arena
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28389.ts
+#EXTINF:-1,Sky Sports Premier League
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28390.ts
+#EXTINF:-1,VIP Sky Sports Football
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28391.ts
+#EXTINF:-1,VIP Sky Sports F1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28392.ts
+#EXTINF:-1,VIP Sky Sports Golf
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28393.ts
+#EXTINF:-1,VIP Sky Sports Cricket
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28394.ts
+#EXTINF:-1,VIP BT Sport 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28395.ts
+#EXTINF:-1,VIP BT Sport 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28396.ts
+#EXTINF:-1,VIP BT Sport 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28397.ts
+#EXTINF:-1,VIP BT Sport ESPN
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28398.ts
+#EXTINF:-1,VIP Sky Sport 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28401.ts
+#EXTINF:-1,VIP Sky Sport 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28402.ts
+#EXTINF:-1,VIP Sky Sport Bundesliga 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28403.ts
+#EXTINF:-1,VIP Fox Sports 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28404.ts
+#EXTINF:-1,VIP Fox Sports 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28405.ts
+#EXTINF:-1,VIP Fox Sports 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28406.ts
+#EXTINF:-1,VIP Fox Sports 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28407.ts
+#EXTINF:-1,VIP Fox Sports 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28408.ts
+#EXTINF:-1,VIP Fox Sports 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28409.ts
+#EXTINF:-1,VIP Ziggo Sport
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28410.ts
+#EXTINF:-1,VIP Ziggo Sport Racing
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28411.ts
+#EXTINF:-1,VIP Ziggo Sport Select
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28412.ts
+#EXTINF:-1,VIP Ziggo Sport Golf
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28413.ts
+#EXTINF:-1,VIP Ziggo Sport Voetbal
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28414.ts
+#EXTINF:-1,VIP BeIN Sports 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28415.ts
+#EXTINF:-1,VIP BeIN Sports 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28416.ts
+#EXTINF:-1,VIP BeIN Sports 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28417.ts
+#EXTINF:-1,VIP BeIN Sports 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28418.ts
+#EXTINF:-1,VIP BeIN Sports 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28419.ts
+#EXTINF:-1,VIP BeIN Sports 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28420.ts
+#EXTINF:-1,VIP BeIN Sports 7
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28421.ts
+#EXTINF:-1,VIP BeIN Sports 8
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28422.ts
+#EXTINF:-1,VIP BeIN Sports 9
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28423.ts
+#EXTINF:-1,VIP BeIN Sports 10
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28424.ts
+#EXTINF:-1,VIP BeIN Sports 11
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28425.ts
+#EXTINF:-1,VIP BeIN Sports 12
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28426.ts
+#EXTINF:-1,VIP BeIN Sports 13
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28427.ts
+#EXTINF:-1,VIP BeIN Sports USA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28428.ts
+#EXTINF:-1,VIP RMC Sport 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28429.ts
+#EXTINF:-1,VIP RMC Sport 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28430.ts
+#EXTINF:-1,VIP RMC Sport 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28431.ts
+#EXTINF:-1,VIP RMC Sport 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28432.ts
+#EXTINF:-1,VIP Sky Sport 24 IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28433.ts
+#EXTINF:-1,VIP Sky Sport Uno IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28434.ts
+#EXTINF:-1,VIP Sky Sport Serie A IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28435.ts
+#EXTINF:-1,VIP Sky Sport Arena IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28436.ts
+#EXTINF:-1,VIP Sky Sport Football IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28437.ts
+#EXTINF:-1,VIP Sky Sport NBA IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28438.ts
+#EXTINF:-1,VIP Sky Sport F1 IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28439.ts
+#EXTINF:-1,VIP Sky Sport MotoGP IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28440.ts
+#EXTINF:-1,VIP Sky Sport Collection IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28441.ts
+#EXTINF:-1,VIP Super Tennis IT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28442.ts
+#EXTINF:-1,VIP UFC USA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28443.ts
+#EXTINF:-1,VIP UFC on Fuel
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28444.ts
+#EXTINF:-1,Abu Dhabi Sports 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30431.ts
+#EXTINF:-1,Abu Dhabi Sports 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30432.ts
+#EXTINF:-1,Abu Dhabi Sports 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30433.ts
+#EXTINF:-1,Abu Dhabi Sports 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30434.ts
+#EXTINF:-1,KSA Sport 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30435.ts
+#EXTINF:-1,Jordan Sport
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30439.ts
+#EXTINF:-1,Al Kass Sports 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30440.ts
+#EXTINF:-1,Al Kass Sports 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30441.ts
+#EXTINF:-1,Al Kass Sports 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30442.ts
+#EXTINF:-1,Al Kass Sports 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30443.ts
+#EXTINF:-1,Al Kass Sports 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30444.ts
+#EXTINF:-1,Oman Sport
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30446.ts
+#EXTINF:-1,Eleven Sports 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30853.ts
+#EXTINF:-1,Eleven Sports 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30854.ts
+#EXTINF:-1,Eleven Sports 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30855.ts
+#EXTINF:-1,Eleven Sports 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30856.ts
+#EXTINF:-1,Eleven Sports 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30857.ts
+#EXTINF:-1,Eleven Sports 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30858.ts
+#EXTINF:-1,FOX Sports MidWest
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30859.ts
+#EXTINF:-1,FOX Sports North
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30860.ts
+#EXTINF:-1,FOX Sports South
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30861.ts
+#EXTINF:-1,FOX Sports SouthEast
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30862.ts
+#EXTINF:-1,FOX Sports SouthWest
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30863.ts
+#EXTINF:-1,FOX Sports West
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30864.ts
+#EXTINF:-1,FOX Sports Prime Ticket
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30865.ts
+#EXTINF:-1,VIP FREESPORTS
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30869.ts
+#EXTINF:-1,US: ESPN DEPORTES FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/244667.ts
+#EXTINF:-1,US ESPN HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/244669.ts
+#EXTINF:-1,US ESPN News HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/244671.ts
+#EXTINF:-1,MX ESPN+
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/244672.ts
+#EXTINF:-1,IT: DAZN 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287340.ts
+#EXTINF:-1,IT: DAZN 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287341.ts
+#EXTINF:-1,AU: EXPO Channel
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298008.ts
+#EXTINF:-1,AU: Fuel TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298017.ts
+#EXTINF:-1,AU: Racing
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298018.ts
+#EXTINF:-1,AU: Racing.com
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298019.ts
+#EXTINF:-1,AU: Racing.Com Melbourne
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298020.ts
+#EXTINF:-1,AU: Racing.com National
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298021.ts
+#EXTINF:-1,AU: Racing.com Perth
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298022.ts
+#EXTINF:-1,AU: Redbull TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298023.ts
+#EXTINF:-1,AU: Redbull TV Melbourne
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298024.ts
+#EXTINF:-1,AU: Redbull TV National
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298025.ts
+#EXTINF:-1,AU: Redbull TV Perth
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298026.ts
+#EXTINF:-1,AU: Sky News Extra
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298027.ts
+#EXTINF:-1,AU: SKY Racing 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298028.ts
+#EXTINF:-1,AU: SKY Racing 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298029.ts
+#EXTINF:-1,Discovery Channel (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203252.ts
+#EXTINF:-1,Discovery Channel HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203253.ts
+#EXTINF:-1,Discovery Channel Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203254.ts
+#EXTINF:-1,Discovery Channel (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203255.ts
+#EXTINF:-1,Discovery Channel Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203256.ts
+#EXTINF:-1,Discovery Channel Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203257.ts
+#EXTINF:-1,Discovery H&H (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203258.ts
+#EXTINF:-1,Discovery H&H HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203259.ts
+#EXTINF:-1,Discovery H&H Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203260.ts
+#EXTINF:-1,Discovery H&H (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203261.ts
+#EXTINF:-1,Discovery H&H Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203262.ts
+#EXTINF:-1,Discovery H&H Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203263.ts
+#EXTINF:-1,History (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203264.ts
+#EXTINF:-1,History HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203265.ts
+#EXTINF:-1,History Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203266.ts
+#EXTINF:-1,History (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203267.ts
+#EXTINF:-1,History Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203268.ts
+#EXTINF:-1,History Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203269.ts
+#EXTINF:-1,History 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203270.ts
+#EXTINF:-1,History 2 Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203271.ts
+#EXTINF:-1,NatGeo (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203272.ts
+#EXTINF:-1,NatGeo HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203273.ts
+#EXTINF:-1,NatGeo Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203274.ts
+#EXTINF:-1,NatGeo (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203275.ts
+#EXTINF:-1,NatGeo Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203276.ts
+#EXTINF:-1,NatGeo Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203277.ts
+#EXTINF:-1,Natgeo Wild (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203278.ts
+#EXTINF:-1,Natgeo Wild HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203279.ts
+#EXTINF:-1,Natgeo Wild Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203280.ts
+#EXTINF:-1,NatGeo Wild (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203281.ts
+#EXTINF:-1,NatGeo Wild Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203282.ts
+#EXTINF:-1,NatGeo Wild Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203283.ts
+#EXTINF:-1,Animal Planet (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203284.ts
+#EXTINF:-1,Animal Planet Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203285.ts
+#EXTINF:-1,Tru TV (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203286.ts
+#EXTINF:-1,Tru TV Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203287.ts
+#EXTINF:-1,Tru TV Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203288.ts
+#EXTINF:-1,Discovery Science
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203289.ts
+#EXTINF:-1,Discovery Theater (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203290.ts
+#EXTINF:-1,Discovery Theater Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203291.ts
+#EXTINF:-1,Discovery Theater (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203292.ts
+#EXTINF:-1,Discovery Theater Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203293.ts
+#EXTINF:-1,Discovery Theater Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203294.ts
+#EXTINF:-1,Discovery TLC (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203295.ts
+#EXTINF:-1,Discovery TLC Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203296.ts
+#EXTINF:-1,Discovery TLC (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203297.ts
+#EXTINF:-1,Discovery TLC Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203298.ts
+#EXTINF:-1,Discovery Turbo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203299.ts
+#EXTINF:-1,Discovery Turbo Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203300.ts
+#EXTINF:-1,Discovery World
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203301.ts
+#EXTINF:-1,Discovery World Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203302.ts
+#EXTINF:-1,Discovery World Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203303.ts
+#EXTINF:-1,Comedy Central (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203304.ts
+#EXTINF:-1,Comedy Central Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203305.ts
+#EXTINF:-1,Comedy Central (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203306.ts
+#EXTINF:-1,Comedy Central Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203307.ts
+#EXTINF:-1,E! Entertainment
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203308.ts
+#EXTINF:-1,E! Entertaiment Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203309.ts
+#EXTINF:-1,El Gourmet (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203310.ts
+#EXTINF:-1,El Gourmet Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203311.ts
+#EXTINF:-1,Food Network (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203312.ts
+#EXTINF:-1,Food Network (MX) Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203313.ts
+#EXTINF:-1,Hola TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203314.ts
+#EXTINF:-1,Hola TV Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203315.ts
+#EXTINF:-1,Discovery Familia HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203316.ts
+#EXTINF:-1,Estrella TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203317.ts
+#EXTINF:-1,Mega TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203318.ts
+#EXTINF:-1,Las Estrellas
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203319.ts
+#EXTINF:-1,Las Estrellas Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203320.ts
+#EXTINF:-1,Las Estrellas Europa
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203321.ts
+#EXTINF:-1,Las Estrellas HD Sur
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203322.ts
+#EXTINF:-1,Lifetime (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203323.ts
+#EXTINF:-1,Love Nature HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203324.ts
+#EXTINF:-1,Mas Chic
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203325.ts
+#EXTINF:-1,Mas Chic Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203326.ts
+#EXTINF:-1,NBC Telemundo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203327.ts
+#EXTINF:-1,TBS
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203328.ts
+#EXTINF:-1,TBS Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203329.ts
+#EXTINF:-1,Telemundo Internacional
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203330.ts
+#EXTINF:-1,Telemundo Internacional Full HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203331.ts
+#EXTINF:-1,Telemundo Boston
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203332.ts
+#EXTINF:-1,Telemundo Chicago
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203333.ts
+#EXTINF:-1,TX Telemundo Dallas
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203334.ts
+#EXTINF:-1,Telemundo Denver
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203335.ts
+#EXTINF:-1,Telemundo Fresno
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203336.ts
+#EXTINF:-1,Telemundo Harlingen
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203337.ts
+#EXTINF:-1,Telemundo Houston
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203338.ts
+#EXTINF:-1,Telemundo Las Vegas
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203339.ts
+#EXTINF:-1,Telemundo Los Angeles
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203340.ts
+#EXTINF:-1,Telemundo Miami
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203341.ts
+#EXTINF:-1,Telemundo New York
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203342.ts
+#EXTINF:-1,Telemundo Philadelphia
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203343.ts
+#EXTINF:-1,Telemundo Phoenix
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203344.ts
+#EXTINF:-1,Telemundo San Antonio
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203345.ts
+#EXTINF:-1,Telemundo San francisco
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203346.ts
+#EXTINF:-1,Telemundo Tucson
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203347.ts
+#EXTINF:-1,Universo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203348.ts
+#EXTINF:-1,Galavision Albuquerque Santa Fe HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203349.ts
+#EXTINF:-1,Galavision Atlanta HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203350.ts
+#EXTINF:-1,Galavision Austin HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203351.ts
+#EXTINF:-1,Galavision Cleveland HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203352.ts
+#EXTINF:-1,Galavision Dallas HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203353.ts
+#EXTINF:-1,Galavision East HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203354.ts
+#EXTINF:-1,Galavision Fresno HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203355.ts
+#EXTINF:-1,Galavision Houston HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203356.ts
+#EXTINF:-1,Galavision La HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203357.ts
+#EXTINF:-1,Galavision Las Vegas HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203358.ts
+#EXTINF:-1,Galavision Miami HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203359.ts
+#EXTINF:-1,Galavision NY HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203360.ts
+#EXTINF:-1,Galavision Philadelphia HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203361.ts
+#EXTINF:-1,Galavision Phoenix HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203362.ts
+#EXTINF:-1,Galavision Raleigh HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203363.ts
+#EXTINF:-1,Galavision Sacramento HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203364.ts
+#EXTINF:-1,Galavision Sat Lake HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203365.ts
+#EXTINF:-1,Galavision San Antonio HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203366.ts
+#EXTINF:-1,Galavision San Francisco HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203367.ts
+#EXTINF:-1,Galavision West HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203368.ts
+#EXTINF:-1,Univision HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203369.ts
+#EXTINF:-1,Univision Noticias HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203370.ts
+#EXTINF:-1,Univision Atlanta HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203371.ts
+#EXTINF:-1,Univision Austin HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203372.ts
+#EXTINF:-1,Univision Cleveland HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203373.ts
+#EXTINF:-1,Univision Philadelphia HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203374.ts
+#EXTINF:-1,Univision Phoenix HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203375.ts
+#EXTINF:-1,Univision Raleigh HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203376.ts
+#EXTINF:-1,Univision Salt Lake HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203377.ts
+#EXTINF:-1,Univision San Antonio HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203378.ts
+#EXTINF:-1,Univision San Francisco HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203379.ts
+#EXTINF:-1,Univision Albuquerque Santa Fe HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203380.ts
+#EXTINF:-1,Univision Chicago HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203381.ts
+#EXTINF:-1,Univision Miami HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203382.ts
+#EXTINF:-1,Univision Dallas HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203383.ts
+#EXTINF:-1,Univision East HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203384.ts
+#EXTINF:-1,Univision Fort Lauderdale HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203385.ts
+#EXTINF:-1,Univision Houston HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203386.ts
+#EXTINF:-1,Univision Los Angeles HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203387.ts
+#EXTINF:-1,Univision NY HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203388.ts
+#EXTINF:-1,Univision West HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203389.ts
+#EXTINF:-1,Univision Puerto Rico HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203390.ts
+#EXTINF:-1,Unimas Albuquerque Santa Fe HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203391.ts
+#EXTINF:-1,Unimas San Antonio HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203392.ts
+#EXTINF:-1,Unimas Atlanta HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203393.ts
+#EXTINF:-1,Unimas Fresno HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203394.ts
+#EXTINF:-1,Unimas Raleigh HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203395.ts
+#EXTINF:-1,Unimas Philadelphia HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203396.ts
+#EXTINF:-1,Unimas Phoenix HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203397.ts
+#EXTINF:-1,Unimas Sacramento HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203398.ts
+#EXTINF:-1,Unimas Cleveland HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203399.ts
+#EXTINF:-1,Unimas Salt Lake HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203400.ts
+#EXTINF:-1,Unimas San Francisco HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203401.ts
+#EXTINF:-1,Unimas Las Vegas HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203402.ts
+#EXTINF:-1,Unimas Austin HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203403.ts
+#EXTINF:-1,Unimas Miami HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203404.ts
+#EXTINF:-1,Unimas East HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203405.ts
+#EXTINF:-1,Unimas Houston HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203406.ts
+#EXTINF:-1,Unimas NY HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203407.ts
+#EXTINF:-1,Unimas West HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203408.ts
+#EXTINF:-1,*--- INFANTIL ---*
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/214286.ts
+#EXTINF:-1,Cartoon Network (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203211.ts
+#EXTINF:-1,Cartoon Network Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203212.ts
+#EXTINF:-1,Cartoon Network (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203213.ts
+#EXTINF:-1,Cartoon Network Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203214.ts
+#EXTINF:-1,Cartoon Network Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203215.ts
+#EXTINF:-1,Discovery Kids (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203216.ts
+#EXTINF:-1,Discovery Kids Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203217.ts
+#EXTINF:-1,Discovery Kids Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203218.ts
+#EXTINF:-1,Disney XD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203219.ts
+#EXTINF:-1,Disney XD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203220.ts
+#EXTINF:-1,Disney XD Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203221.ts
+#EXTINF:-1,Disney Channel (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203222.ts
+#EXTINF:-1,Disney Channel Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203223.ts
+#EXTINF:-1,Disney Channel (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203224.ts
+#EXTINF:-1,Disney Channel Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203225.ts
+#EXTINF:-1,Disney Channel Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203226.ts
+#EXTINF:-1,Nat Geo Kids (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203227.ts
+#EXTINF:-1,Nat Geo Kids Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203228.ts
+#EXTINF:-1,Nat Geo Kids (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203229.ts
+#EXTINF:-1,Nat Geo Kids Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203230.ts
+#EXTINF:-1,Nickelodeon (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203231.ts
+#EXTINF:-1,Nickelodeon Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203232.ts
+#EXTINF:-1,Nickelodeon (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203233.ts
+#EXTINF:-1,Nickelodeon Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203234.ts
+#EXTINF:-1,Nickelodeon Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203235.ts
+#EXTINF:-1,Nick 2 (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203236.ts
+#EXTINF:-1,Nick 2 Full HD (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203237.ts
+#EXTINF:-1,Nick 2 Full HD (ARG)(Dual Audio)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203238.ts
+#EXTINF:-1,Nick Jr
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203239.ts
+#EXTINF:-1,Disney Junior (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203240.ts
+#EXTINF:-1,Disney Junior Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203241.ts
+#EXTINF:-1,Tooncast (CO)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203242.ts
+#EXTINF:-1,Tooncast (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203243.ts
+#EXTINF:-1,Baby TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203244.ts
+#EXTINF:-1,Nick Toons (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203245.ts
+#EXTINF:-1,Boomerang (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203246.ts
+#EXTINF:-1,Boomerang Full HD (MX)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203247.ts
+#EXTINF:-1,Baby First
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203248.ts
+#EXTINF:-1,Semillitas TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203249.ts
+#EXTINF:-1,Zoomoo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203250.ts
+#EXTINF:-1,Paka Paka
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/203251.ts
