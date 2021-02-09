@@ -11,6 +11,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=172&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
 https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8
+#EXTINF:-1,UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana FHD ES" tvg-logo="http://pici.life/beinsports.png" group-title="Spain Sport",bein Sports Espana FHD ES
 http://mytv.fun:8080/kemal100/fkcjkrj77/7248
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana HD ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain Sport",bein Sports Espana HD ES
