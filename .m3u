@@ -13,813 +13,1152 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8
 #EXTINF:-1,UNIVISION SPORTS   ULTIMO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana FHD ES" tvg-logo="http://pici.life/beinsports.png" group-title="Spain Sport",bein Sports Espana FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana HD ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain Sport",bein Sports Espana HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/8745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Espana ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain Sport",beIN Sports Espana ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13540
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 FHD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683544
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 2 HD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683545
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 [Web TV] FHD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 [Web TV] HD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Liga TV BAR HD ES" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_640/https://worldsoccertalk.com/wp-content/uploads/2014/01/laliga-logo-thin.jpg" group-title="Spain Sport",La Liga TV BAR HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/669971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar La Liga FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/16274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 1 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 1 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 2 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 2 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 3 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 3 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 9 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 9 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 10 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 10 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos Bar ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos Bar ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos FHD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/682871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/682872
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Liga De Campeones FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/620686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones HD ES" tvg-logo="" group-title="Spain Sport",Movistar Liga De Campeones HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/620685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones 1 [Match Time] HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Liga De Campeones 1 [Match Time] HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Deportes FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/16278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes HD ES" tvg-logo="http://pici.life/ES/movistardeportes1.png" group-title="Spain Sport",Movistar Deportes HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Deportes 2 FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/16277
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 HD ES" tvg-logo="http://pici.life/ES/movistardeportes2.png" group-title="Spain Sport",Movistar Deportes 2 HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar Futbol FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol HD ES" tvg-logo="http://pici.life/es/MovistarFutbol.es.png" group-title="Spain Sport",Movistar Futbol HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/8783
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar Futbol ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 FHD ES" tvg-logo="http://pici.life/canalplus.png" group-title="Spain Sport",Movistar F1 FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 HD ES" tvg-logo="http://pici.life/ES/movistarformula1.png" group-title="Spain Sport",Movistar F1 HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 ES" tvg-logo="http://pici.life/es/MovistarFormula1.es.png" group-title="Spain Sport",Movistar F1 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/71971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf FHD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain Sport",Movistar Golf FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7237
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf HD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain Sport",Movistar Golf HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gol TV ES" tvg-logo="http://pici.life/ES/gol.png" group-title="Spain Sport",Gol TV ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teledeporte ES" tvg-logo="http://pici.life/es/Teledeporte.es.png" group-title="Spain Sport",Teledeporte ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid Channel ES" tvg-logo="http://pici.life/realmadridtv_2.png" group-title="Spain Sport",Real Madrid Channel ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Madrid ES" tvg-logo="" group-title="Spain Sport",Tele Madrid ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/679745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barca TV ES" tvg-logo="http://pici.life/barcatv.png" group-title="Spain Sport",Barca TV ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD ES" tvg-logo="http://pici.life/ES/eurosport1.png" group-title="Spain Sport",Eurosport 1 HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/8746
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 ES" tvg-logo="http://pici.life/ES/eurosport2.png" group-title="Spain Sport",Eurosport 2 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viajar FHD ES" tvg-logo="http://pici.life/es/Viajar.es.png" group-title="Spain Sport",Viajar FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7170
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros HD ES" tvg-logo="http://pici.life/ES/torostv.png" group-title="Spain Sport",Toros HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB SAT ES" tvg-logo="" group-title="Spain Sport",ETB SAT ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/684922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 1 ES" tvg-logo="" group-title="Spain Sport",ETB 1 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/684921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 2 ES" tvg-logo="" group-title="Spain Sport",ETB 2 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/684923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 1 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%201%20hd.png" group-title="Hungary Sport",Digi Sport 1 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13295
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 2 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%202%20hd.png" group-title="Hungary Sport",Digi Sport 2 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13294
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 3 HD HU" tvg-logo="http://pici.life/HU/digi_sport_3_hd.jpg" group-title="Hungary Sport",Digi Sport 3 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13293
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 6 HU" tvg-logo="http://pici.life/viasat6.png" group-title="Hungary Sport",Viasat 6 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 3 HU" tvg-logo="http://pici.life/HU/viasat3.png" group-title="Hungary Sport",Viasat 3 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/8040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2 HD HU" tvg-logo="http://pici.life/HU/tv2.png" group-title="Hungary Sport",TV2 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1 HD HU" tvg-logo="http://pici.life/HU/sport1cz.png" group-title="Hungary Sport",Sport 1 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 2 HD HU" tvg-logo="http://pici.life/HU/sport2cze.png" group-title="Hungary Sport",Sport 2 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Story 4 HU" tvg-logo="http://pici.life/HU/story4.png" group-title="Hungary Sport",Story 4 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum HD HU" tvg-logo="http://pici.life/HU/spektrum.png" group-title="Hungary Sport",Spektrum HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum Home HU" tvg-logo="http://pici.life/HU/spektrumhome.png" group-title="Hungary Sport",Spektrum Home HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M5 HD HU" tvg-logo="http://pici.life/HU/m5.png" group-title="Hungary Sport",M5 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Hungary HU" tvg-logo="http://pici.life/HU/m1.png" group-title="Hungary Sport",M1 Hungary HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fem3 HU" tvg-logo="http://pici.life/m3.png" group-title="Hungary Sport",Fem3 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4 Sport HD HU" tvg-logo="http://pici.life/HU/M4_sport.png" group-title="Hungary Sport",M4 Sport HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 1 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 1 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287052.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 2 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 2 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287053.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 3 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 3 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 4 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 4 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287055.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 5 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 5 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287056.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 6 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 6 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287057.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 7 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 7 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287058.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Cosmote Sport 8 HD" tvg-logo="" group-title="GREECE SPORT",GR: Cosmote Sport 8 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287059.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Nova Sport 4 HD" tvg-logo="" group-title="GREECE SPORT",GR: Nova Sport 4 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287110.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: NOVA SPORT 1 HD" tvg-logo="" group-title="GREECE SPORT",GR: NOVA SPORT 1 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287061.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: NOVA SPORT 2 HD" tvg-logo="" group-title="GREECE SPORT",GR: NOVA SPORT 2 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287062.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Nova Sports 3" tvg-logo="" group-title="GREECE SPORT",GR: Nova Sports 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287063.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: Nova Sports 5 HD ( Only During Live Matches )" tvg-logo="" group-title="GREECE SPORT",GR: Nova Sports 5 HD ( Only During Live Matches )
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/287064.ts
-#EXTINF:-1,|GR| Nova Sport 1 HD
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/160033
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 1 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 1 FHD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680241
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 2 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 2 FHD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680242
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 3 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 3 FHD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 4 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 4 FHD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680244
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 5 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 5 FHD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680245
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 6 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 6 FHD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 7 HD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 7 HD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium 8 FHD  FR VIP" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium 8 FHD  FR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/680248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 1 FHD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 1 FHD HR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/623691
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 2 FHD VIP HR" tvg-logo="" group-title="Sports",Planet Sports 2 FHD VIP HR
-http://mytv.fun:8080/kemal100/fkcjkrj77/623690
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 3 FHD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 3 FHD HR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/623689
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 4 HD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 4 HD HR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/663526
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Sports 5 HD HR VIP" tvg-logo="" group-title="Sports",Planet Sports 5 HD HR VIP
-http://mytv.fun:8080/kemal100/fkcjkrj77/663527
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportsuk/thumbs/channels/44_es.jpg" group-title="Sports",Eleven Sports 1 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/13774
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportsuk/thumbs/channels/45_es.jpg" group-title="Sports",Eleven Sports 2 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/13773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="Sports",Eleven Sports 3 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/13772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_4_Portugal.png" group-title="Sports",Eleven Sports 4 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/13771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 5 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_US.png" group-title="Sports",Eleven Sports 5 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/13770
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/Eleven_Sports_US.png" group-title="Sports",Eleven Sports 6 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/13769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MySports FHD CH" tvg-logo="http://pici.life/CH/MySports.png" group-title="Sports",MySports FHD CH
-http://mytv.fun:8080/kemal100/fkcjkrj77/13784
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://pici.life/CH/MySports.png" group-title="Sports",Eleven Sports 1 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/13766
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://pici.life/CH/MySports.png" group-title="Sports",Eleven Sports 2 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/13765
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 1 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13860
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 2 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 3 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/53268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 4 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13857
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 5 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 5 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/625256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 6 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 7 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 8 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 8 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 9 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13852
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 10 FHD ARB" tvg-logo="" group-title="Sports",beIN Sports 10 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports News ARB" tvg-logo="" group-title="Sports",beIN Sports News ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/13861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 1 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/14096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 2 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/14095
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 3 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/14094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 FHD TR" tvg-logo="" group-title="Sports",beIN Sports 4 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/14093
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Variety HD ARB" tvg-logo="" group-title="Sports",MBC Variety HD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/14112
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Aflam HD ARB" tvg-logo="" group-title="Sports",Rotana Aflam HD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/14111
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 5 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 5 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/16933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 7 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 7 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/16931
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 8 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 8 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/16930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 9 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 9 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/16929
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports MAX 10 FHD FR" tvg-logo="" group-title="Sports",beIN Sports MAX 10 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/16928
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATG Live SE" tvg-logo="http://pici.life/SE/ATG_live.jpg" group-title="Sports",ATG Live SE
-http://mytv.fun:8080/kemal100/fkcjkrj77/14243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Junior VIP FI" tvg-logo="" group-title="Sports",C More Junior VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Juniori VIP FI" tvg-logo="http://pici.life/FI/cmorejuniori.png" group-title="Sports",C More Juniori VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17114
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 1 VIP FI" tvg-logo="" group-title="Sports",C More Sport 1 VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 1 FHD VIP FI" tvg-logo="http://pici.life/FI/cmoresport1.png" group-title="Sports",C More Sport 1 FHD VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17115
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport 2 VIP FI" tvg-logo="" group-title="Sports",C More Sport 2 VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Sport HD VIP FI" tvg-logo="" group-title="Sports",C More Sport HD VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C More Max HD VIP FI" tvg-logo="http://pici.life/FI/cmoremaxhd.png" group-title="Sports",C More Max HD VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17125
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jim TV VIP FI" tvg-logo="" group-title="Sports",Jim TV VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 3 FHD VIP FI" tvg-logo="" group-title="Sports",MTV 3 FHD VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17127
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD VIP SC" tvg-logo="" group-title="Sports",Nat Geo Wild HD VIP SC
-http://mytv.fun:8080/kemal100/fkcjkrj77/17013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nelonen VIP FI" tvg-logo="http://pici.life/FI/nelonen.png" group-title="Sports",Nelonen VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sub TV VIP FI" tvg-logo="" group-title="Sports",Sub TV VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 4 VIP SC" tvg-logo="" group-title="Sports",Viasat 4 VIP SC
-http://mytv.fun:8080/kemal100/fkcjkrj77/17014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore VIP SC" tvg-logo="" group-title="Sports",Viasat Explore VIP SC
-http://mytv.fun:8080/kemal100/fkcjkrj77/17077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VNature HD VIP NO" tvg-logo="http://pici.life/NO/viasatnature.png" group-title="Sports",VNature HD VIP NO
-http://mytv.fun:8080/kemal100/fkcjkrj77/17103
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Series VIP NO" tvg-logo="" group-title="Sports",Viasat Series VIP NO
-http://mytv.fun:8080/kemal100/fkcjkrj77/17101
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yle TV 1 FHD VIP FI" tvg-logo="" group-title="Sports",Yle TV 1 FHD VIP FI
-http://mytv.fun:8080/kemal100/fkcjkrj77/17129
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [Florida] VIP HD US" tvg-logo="" group-title="Sports",Fox Sports [Florida] VIP HD US
-http://mytv.fun:8080/kemal100/fkcjkrj77/18938
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sportstime [OHIO] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports Sportstime [OHIO] HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/18945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [South] HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/650574
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South East] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [South East] HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/18943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South West] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [South West] HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/18942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sun HD VIP US" tvg-logo="" group-title="Sports",Fox Sports Sun HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/18937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [West] HD VIP US" tvg-logo="" group-title="Sports",Fox Sports [West] HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/18940
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Wisconsin HD VIP US" tvg-logo="" group-title="Sports",Fox Sports Wisconsin HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/18939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beout Sports 1 HD AR" tvg-logo="" group-title="Sports",Beout Sports 1 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/38509
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WGN America HD US" tvg-logo="" group-title="Sports",WGN America HD US
-http://mytv.fun:8080/kemal100/fkcjkrj77/620791
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes Network FHD US" tvg-logo="" group-title="Sports",Yes Network FHD US
-http://mytv.fun:8080/kemal100/fkcjkrj77/620794
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 1 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 1 [Match Time] FHD DE
-http://mytv.fun:8080/kemal100/fkcjkrj77/620810
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 2 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 2 [Match Time] FHD DE
-http://mytv.fun:8080/kemal100/fkcjkrj77/620809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 3 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 3 [Match Time] FHD DE
-http://mytv.fun:8080/kemal100/fkcjkrj77/620808
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 4 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 4 [Match Time] FHD DE
-http://mytv.fun:8080/kemal100/fkcjkrj77/620807
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 5 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 5 [Match Time] FHD DE
-http://mytv.fun:8080/kemal100/fkcjkrj77/620806
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 6 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 6 [Match Time] FHD DE
-http://mytv.fun:8080/kemal100/fkcjkrj77/620805
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Eishockey 7 [Match Time] FHD DE" tvg-logo="" group-title="Sports",Telekom Eishockey 7 [Match Time] FHD DE
-http://mytv.fun:8080/kemal100/fkcjkrj77/620804
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Poland Sport",------- Sports -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/683432
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 1 FHD PL" tvg-logo="http://pici.life/canalsport.png" group-title="Poland Sport",Canal+ Sport 1 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/7300
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="http://pici.life/canalplussport_2.png" group-title="Poland Sport",Canal+ Sport 2 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/7304
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="http://pici.life/PL/canalplussport2hd.png" group-title="Poland Sport",Canal+ Sport 2 HD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/7299
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://pici.life/PL/elevensports.png" group-title="Poland Sport",Eleven Sports 1 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/524331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_2hd.png" group-title="Poland Sport",Eleven Sports 2 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/99803
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_3hd.png" group-title="Poland Sport",Eleven Sports 3 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/99930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Sports 4 HD PL" tvg-logo="" group-title="Poland Sport",Eleven Sports 4 HD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/167186
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="nSport Plus FHD PL" tvg-logo="http://pici.life/PL/nsportplushd.png" group-title="Poland Sport",nSport Plus FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/5238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD PL" tvg-logo="http://pici.life/NL/eurosport1hd.png" group-title="Poland Sport",Eurosport 1 HD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9878
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 FHD PL" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Poland Sport",Eurosport 2 FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Box FHD PL" tvg-logo="http://pici.life/PL/fightboxhd.png" group-title="Poland Sport",Fight Box FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/5239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports FHD PL" tvg-logo="http://pici.life/PL/extremesportshd.png" group-title="Poland Sport",Extreme Sports FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/5240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel FHD PL" tvg-logo="http://pici.life/golfchannel_2.png" group-title="Poland Sport",Golf Channel FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9873
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motorwizja FHD PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland Sport",Motorwizja FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9904
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motowizja PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland Sport",Motowizja PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport FHD PL" tvg-logo="http://pici.life/PL/polsatsporthd.png" group-title="Poland Sport",Polsat Sport FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/625236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 1 HD PL" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium 1 HD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/53159
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium 2 HD PL" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium 2 HD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/531582
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 3 FHD" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium PPV 3 FHD
-http://mytv.fun:8080/kemal100/fkcjkrj77/620683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 4 FHD" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium PPV 4 FHD
-http://mytv.fun:8080/kemal100/fkcjkrj77/620682
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Premium PPV 6 FHD" tvg-logo="" group-title="Poland Sport",Polsat Sport Premium PPV 6 FHD
-http://mytv.fun:8080/kemal100/fkcjkrj77/620680
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Extra FHD PL" tvg-logo="" group-title="Poland Sport",Polsat Sport Extra FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/625232
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Extra HD PL" tvg-logo="http://pici.life/PL/polsatsportextrahd.png" group-title="Poland Sport",Polsat Sport Extra HD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/625230
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="http://pici.life/PL/polsatsportfighthd.png" group-title="Poland Sport",Polsat Sport Fight FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/5247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Sport News FHD PL" tvg-logo="http://pici.life/PL/Polsat-Sport-News-HD.png" group-title="Poland Sport",Polsat Sport News FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9869
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Polsat FHD PL" tvg-logo="http://pici.life/PL/superpolsatpl.png" group-title="Poland Sport",Super Polsat FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9897
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Sport FHD PL" tvg-logo="http://pici.life/PL/tvpsporthd.png" group-title="Poland Sport",TVP Sport FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/5225
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Sports PL" tvg-logo="http://pici.life/tvpsporthd.png" group-title="Poland Sport",TVP Sports PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/7267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportklub HD PL" tvg-logo="http://pici.life/PL/sportklub.png" group-title="Poland Sport",Sportklub HD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/9819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSW PPV FHD [Match Time] PL" tvg-logo="" group-title="Poland Sport",KSW PPV FHD [Match Time] PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/624946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- SuperSport AF -------" tvg-logo="" group-title="Sports",------- SuperSport AF -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/682923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 1 HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Variety 1 HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678020
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 2 HD AF" tvg-logo="" group-title="Sports",SuperSport Variety 2 HD AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 3 HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Variety 3 HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 4 HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Variety 4 HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Football HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Football HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Action FHD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Action FHD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/683568
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Motorsport HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Motorsport HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Rugby HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Rugby HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Tennis HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Tennis HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Golf HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Golf HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Premier League HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Premier League HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport La Liga HD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport La Liga HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/683001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport PSL HD VIP AF" tvg-logo="" group-title="Sports",SuperSport PSL HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678030
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Grandstand HD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Grandstand HD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/678031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Maximo HD AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Maximo HD AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/682919
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Blitz FHD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Blitz FHD VIP AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/682921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- AFL & Optus Sports -------" tvg-logo="" group-title="Sports",------- AFL & Optus Sports -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/683279
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus Sport [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus Sport [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 2 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 2 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 3 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 3 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 4 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 4 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683980
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 5 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 5 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 6 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 6 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683982
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 7 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 7 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 8 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 8 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683984
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 9 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 9 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Optus 10 [Match Time] HD VIP AU" tvg-logo="" group-title="Sports",Optus 10 [Match Time] HD VIP AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 1 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 1 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 2 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 2 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683271
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 3 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 3 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 4 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 4 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 5 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 5 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 6 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 6 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 7 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 7 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 8 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 8 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683277
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFL 9 [Match Time] HD AU" tvg-logo="http://pici.life/logo.png" group-title="Sports",AFL 9 [Match Time] HD AU
-http://mytv.fun:8080/kemal100/fkcjkrj77/683278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-------  beIN Sports AR -------" tvg-logo="" group-title="Sports",-------  beIN Sports AR -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/682924
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports News FHD AR" tvg-logo="" group-title="Sports",beIN Sports News FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/676904
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682932
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD AR" tvg-logo="" group-title="Sports",beIN Sports 1 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5482
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 HD VIP AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/678748
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 2 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 HD AR" tvg-logo="" group-title="Sports",beIN Sports 2 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5481
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 3 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682934
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 HD AR" tvg-logo="" group-title="Sports",beIN Sports 3 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5480
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 HD AR" tvg-logo="" group-title="Sports",beIN Sports 4 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5479
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 5 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 5 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682935
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 5 HD AR" tvg-logo="" group-title="Sports",beIN Sports 5 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5478
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 FHD AR" tvg-logo="" group-title="Sports",beIN Sports 6 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/54777
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 7 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/683135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 HD AR" tvg-logo="" group-title="Sports",beIN Sports 7 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5476
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 8 HD AR" tvg-logo="" group-title="Sports",beIN Sports 8 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/53432
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 FHD VIP AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 9 FHD VIP AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682936
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 9 HD AR" tvg-logo="" group-title="Sports",beIN Sports 9 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5474
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 10 HD AR" tvg-logo="" group-title="Sports",beIN Sports 10 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5473
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 11 FHD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 11 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/683410
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 11 HD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 11 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/667466
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 12 HD AR" tvg-logo="" group-title="Sports",beIN Sports 12 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/54715
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- beIN Sports US -------" tvg-logo="" group-title="Sports",------- beIN Sports US -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/682938
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports HD US" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports HD US
-http://mytv.fun:8080/kemal100/fkcjkrj77/682942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Espanol HD VIP US" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Espanol HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/678747
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- beIN Sports TR -------" tvg-logo="" group-title="Sports",------- beIN Sports TR -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/682925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Haber HD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Haber HD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682950
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 HD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 FHD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 2 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682947
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 VIP TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 3 VIP TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 4 FHD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 4 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682949
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 1 HD VIP TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Max 1 HD VIP TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 2 HD VIP TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports Max 2 HD VIP TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682954
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- beIN Sports FR -------" tvg-logo="" group-title="Sports",------- beIN Sports FR -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/682926
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 1 HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 2 HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682944
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 SD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",beIN Sports 3 SD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 4 HD FR" tvg-logo="" group-title="Sports",beIN Sports Max 4 HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5470
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 5 FR" tvg-logo="" group-title="Sports",beIN Sports Max 5 FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/53604
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 6 FR" tvg-logo="" group-title="Sports",beIN Sports Max 6 FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/625242
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 7 FR" tvg-logo="" group-title="Sports",beIN Sports Max 7 FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/54678
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Max 8 FR" tvg-logo="" group-title="Sports",beIN Sports Max 8 FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5466
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- RMC Sports FR -------" tvg-logo="http://pici.life/logo.png" group-title="Sports",------- RMC Sports FR -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/682960
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1 FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 1 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1 HD FR" tvg-logo="" group-title="Sports",RMC Sport 1 HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/625226
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2 FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 2 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682957
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2 HD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 2 HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682955
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 3 FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 3 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 3 HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_3.png" group-title="Sports",RMC Sport 3 HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/625233
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 4 FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 4 FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 4 HD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 4 HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 5 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 5 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 6 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 6 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682963
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 7 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 7 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682964
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 8 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 8 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 9 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 9 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 10 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 10 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682966
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 11 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 11 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 12 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 12 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682969
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 13 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 13 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 14 [Match Time] FHD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",RMC Sport 14 [Match Time] FHD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Global Sports EN -------" tvg-logo="" group-title="Sports",------- Global Sports EN -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/683570
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE Network HD VIP US" tvg-logo="http://pici.life/logo.png" group-title="Sports",WWE Network HD VIP US
-http://mytv.fun:8080/kemal100/fkcjkrj77/683002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1 HD UK" tvg-logo="http://pici.life/logo.png" group-title="Sports",Premier Sports 1 HD UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/682991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2 HD UK" tvg-logo="http://pici.life/logo.png" group-title="Sports",Premier Sports 2 HD UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/682992
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 1 HD UK" tvg-logo="http://pici.life/logo.png" group-title="Sports",Eir Sports 1 HD UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/682994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eir Sports 2 HD UK" tvg-logo="http://pici.life/logo.png" group-title="Sports",Eir Sports 2 HD UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/682995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liverpool FC TV FHD UK" tvg-logo="" group-title="Sports",Liverpool FC TV FHD UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/5425
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV HD US" tvg-logo="" group-title="Sports",NBA TV HD US
-http://mytv.fun:8080/kemal100/fkcjkrj77/5450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freesports HD VIP UK" tvg-logo="http://pici.life/logo.png" group-title="Sports",Freesports HD VIP UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/682990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Global Sports AR -------" tvg-logo="" group-title="Sports",------- Global Sports AR -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/683571
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saudi 24 FHD AR" tvg-logo="" group-title="Sports",Saudi 24 FHD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/685725
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1 HD ARB" tvg-logo="http://pici.life/logo.png" group-title="Sports",AD Sports 1 HD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/682978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 2 HD ARB" tvg-logo="http://pici.life/logo.png" group-title="Sports",AD Sports 2 HD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/682979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3 HD ARB" tvg-logo="http://pici.life/logo.png" group-title="Sports",AD Sports 3 HD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/682973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 4 FHD ARB" tvg-logo="" group-title="Sports",AD Sports 4 FHD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/5404
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 5 HD ARB" tvg-logo="http://pici.life/logo.png" group-title="Sports",AD Sports 5 HD ARB
-http://mytv.fun:8080/kemal100/fkcjkrj77/682974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 1 HD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",Dubai Sports 1 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Sports 2 HD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",Dubai Sports 2 HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Sport HD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",Sharjah Sport HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yas Sport HD AR" tvg-logo="http://pici.life/logo.png" group-title="Sports",Yas Sport HD AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMC Sports AR" tvg-logo="" group-title="Sports",DMC Sports AR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5403
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Global Sports TR -------" tvg-logo="" group-title="Sports",------- Global Sports TR -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/683572
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Spor 1 FHD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",TRT Spor 1 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/683139
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Spor 2 FHD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",TRT Spor 2 FHD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/683140
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibuspor 2 HD TR" tvg-logo="" group-title="Sports",Tivibuspor 2 HD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/678942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibuspor 1 HD TR" tvg-logo="" group-title="Sports",Tivibuspor 1 HD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5439
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tivibuspor 3 HD TR" tvg-logo="http://pici.life/logo.png" group-title="Sports",Tivibuspor 3 HD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/682980
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smart Sport 1 HD TR" tvg-logo="" group-title="Sports",Smart Sport 1 HD TR
-http://mytv.fun:8080/kemal100/fkcjkrj77/5446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Global Sports -------" tvg-logo="" group-title="Sports",------- Global Sports -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/682927
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telefoot Stadium HD FR" tvg-logo="http://pici.life/logo.png" group-title="Sports",Telefoot Stadium HD FR
-http://mytv.fun:8080/kemal100/fkcjkrj77/679093
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Pro League 2 FHD BE" tvg-logo="http://pici.life/logo.png" group-title="Sports",Eleven Pro League 2 FHD BE
-http://mytv.fun:8080/kemal100/fkcjkrj77/683253
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV1 FHD PT" tvg-logo="" group-title="Sports",Sport TV1 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/5442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV2 FHD PT" tvg-logo="" group-title="Sports",Sport TV2 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/5441
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport TV3 FHD PT" tvg-logo="" group-title="Sports",Sport TV3 FHD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/5440
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kombat Sport HD PT" tvg-logo="http://pici.life/logo.png" group-title="Sports",Kombat Sport HD PT
-http://mytv.fun:8080/kemal100/fkcjkrj77/682981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid TV ES" tvg-logo="" group-title="Sports",Real Madrid TV ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/5402
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 1 FHD RO" tvg-logo="" group-title="Sports",Digi Sport 1 FHD RO
-http://mytv.fun:8080/kemal100/fkcjkrj77/5454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 2 HD RO" tvg-logo="" group-title="Sports",Digi Sport 2 HD RO
-http://mytv.fun:8080/kemal100/fkcjkrj77/5453
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 3 HD RO" tvg-logo="" group-title="Sports",Digi Sport 3 HD RO
-http://mytv.fun:8080/kemal100/fkcjkrj77/5452
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 4 HD RO" tvg-logo="http://pici.life/logo.png" group-title="Sports",Digi Sport 4 HD RO
-http://mytv.fun:8080/kemal100/fkcjkrj77/682989
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Africa Sports TV HD AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",Africa Sports TV HD AF
-http://mytv.fun:8080/kemal100/fkcjkrj77/682988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="" group-title="Sports",Star Sports 1 FHD VIP IN
-http://mytv.fun:8080/kemal100/fkcjkrj77/5431
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN Sports FHD IN" tvg-logo="" group-title="Sports",TEN Sports FHD IN
-http://mytv.fun:8080/kemal100/fkcjkrj77/5433
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 FHD IN" tvg-logo="" group-title="Sports",Star Sports 2 FHD IN
-http://mytv.fun:8080/kemal100/fkcjkrj77/5430
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="" group-title="Sports",Star Sports 3 HD IN
-http://mytv.fun:8080/kemal100/fkcjkrj77/5429
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket HD IN" tvg-logo="" group-title="Sports",Willow Cricket HD IN
-http://mytv.fun:8080/kemal100/fkcjkrj77/5437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six SD IN" tvg-logo="" group-title="Sports",Sony Six SD IN
-http://mytv.fun:8080/kemal100/fkcjkrj77/5436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEO Super HD PK" tvg-logo="" group-title="Sports",GEO Super HD PK
-http://mytv.fun:8080/kemal100/fkcjkrj77/5434
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports HD PK" tvg-logo="" group-title="Sports",PTV Sports HD PK
-http://mytv.fun:8080/kemal100/fkcjkrj77/5435
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FightBox FHD PL" tvg-logo="" group-title="Sports",FightBox FHD PL
-http://mytv.fun:8080/kemal100/fkcjkrj77/5412
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VHockey FHD SE" tvg-logo="" group-title="Sports",VHockey FHD SE
-http://mytv.fun:8080/kemal100/fkcjkrj77/5417
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VGolf HD SE" tvg-logo="" group-title="Sports",VGolf HD SE
-http://mytv.fun:8080/kemal100/fkcjkrj77/5421
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VFotboll SE" tvg-logo="" group-title="Sports",VFotboll SE
-http://mytv.fun:8080/kemal100/fkcjkrj77/5422
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VSport Premium HD SE" tvg-logo="" group-title="Sports",VSport Premium HD SE
-http://mytv.fun:8080/kemal100/fkcjkrj77/5418
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Channel HR" tvg-logo="" group-title="Sports",Fight Channel HR
-http://mytv.fun:8080/kemal100/fkcjkrj77/12383
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD 1 HR" tvg-logo="http://pici.life/sportklub1hdexyu.png" group-title="Sports",Sport Klub HD 1 HR
-http://mytv.fun:8080/kemal100/fkcjkrj77/625227
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD 2 HR" tvg-logo="http://pici.life/sportklub2hdexyu.png" group-title="Sports",Sport Klub HD 2 HR
-http://mytv.fun:8080/kemal100/fkcjkrj77/7088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD 3 HR" tvg-logo="http://pici.life/sportklub3hdexyu.png" group-title="Sports",Sport Klub HD 3 HR
-http://mytv.fun:8080/kemal100/fkcjkrj77/7087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub FHD 1 RS" tvg-logo="" group-title="Sports",Sport Klub FHD 1 RS
-http://mytv.fun:8080/kemal100/fkcjkrj77/53164
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub FHD 2 RS" tvg-logo="" group-title="Sports",Sport Klub FHD 2 RS
-http://mytv.fun:8080/kemal100/fkcjkrj77/5444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub HD 3 RS" tvg-logo="" group-title="Sports",Sport Klub HD 3 RS
-http://mytv.fun:8080/kemal100/fkcjkrj77/5443
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Votball HD NL" tvg-logo="" group-title="Sports",Ziggo Sport Votball HD NL
-http://mytv.fun:8080/kemal100/fkcjkrj77/5392
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport FHD AL" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport FHD AL
-http://mytv.fun:8080/kemal100/fkcjkrj77/682920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------- Sports -------" tvg-logo="" group-title="Spain Sport",------- Sports -------
-http://mytv.fun:8080/kemal100/fkcjkrj77/679811
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana FHD ES" tvg-logo="http://pici.life/beinsports.png" group-title="Spain Sport",bein Sports Espana FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein Sports Espana HD ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain Sport",bein Sports Espana HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/8745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Espana ES" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="Spain Sport",beIN Sports Espana ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13540
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 FHD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683544
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 2 HD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683545
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] FHD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 [Web TV] FHD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 [Web TV] HD VIP ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",DAZN 1 [Web TV] HD VIP ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Liga TV BAR HD ES" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_640/https://worldsoccertalk.com/wp-content/uploads/2014/01/laliga-logo-thin.jpg" group-title="Spain Sport",La Liga TV BAR HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/669971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar La Liga FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/16274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 1 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 1 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 2 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 2 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 3 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 3 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 9 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 9 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar La Liga 10 [Match Time] ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar La Liga 10 [Match Time] ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683152
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos Bar ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos Bar ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos FHD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/682871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Vamos HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/682872
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Liga De Campeones FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/620686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones HD ES" tvg-logo="" group-title="Spain Sport",Movistar Liga De Campeones HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/620685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones 1 [Match Time] HD ES" tvg-logo="http://pici.life/logo.png" group-title="Spain Sport",Movistar Liga De Campeones 1 [Match Time] HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/683153
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Deportes FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/16278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes HD ES" tvg-logo="http://pici.life/ES/movistardeportes1.png" group-title="Spain Sport",Movistar Deportes HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 FHD ES" tvg-logo="" group-title="Spain Sport",Movistar Deportes 2 FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/16277
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2 HD ES" tvg-logo="http://pici.life/ES/movistardeportes2.png" group-title="Spain Sport",Movistar Deportes 2 HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol FHD ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar Futbol FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol HD ES" tvg-logo="http://pici.life/es/MovistarFutbol.es.png" group-title="Spain Sport",Movistar Futbol HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/8783
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol ES" tvg-logo="http://pici.life/ES/movistarfutbol.png" group-title="Spain Sport",Movistar Futbol ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 FHD ES" tvg-logo="http://pici.life/canalplus.png" group-title="Spain Sport",Movistar F1 FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 HD ES" tvg-logo="http://pici.life/ES/movistarformula1.png" group-title="Spain Sport",Movistar F1 HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar F1 ES" tvg-logo="http://pici.life/es/MovistarFormula1.es.png" group-title="Spain Sport",Movistar F1 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/71971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf FHD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain Sport",Movistar Golf FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7237
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf HD ES" tvg-logo="http://pici.life/ES/movistargolf.png" group-title="Spain Sport",Movistar Golf HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gol TV ES" tvg-logo="http://pici.life/ES/gol.png" group-title="Spain Sport",Gol TV ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teledeporte ES" tvg-logo="http://pici.life/es/Teledeporte.es.png" group-title="Spain Sport",Teledeporte ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madrid Channel ES" tvg-logo="http://pici.life/realmadridtv_2.png" group-title="Spain Sport",Real Madrid Channel ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele Madrid ES" tvg-logo="" group-title="Spain Sport",Tele Madrid ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/679745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Barca TV ES" tvg-logo="http://pici.life/barcatv.png" group-title="Spain Sport",Barca TV ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD ES" tvg-logo="http://pici.life/ES/eurosport1.png" group-title="Spain Sport",Eurosport 1 HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/8746
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 ES" tvg-logo="http://pici.life/ES/eurosport2.png" group-title="Spain Sport",Eurosport 2 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viajar FHD ES" tvg-logo="http://pici.life/es/Viajar.es.png" group-title="Spain Sport",Viajar FHD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/7170
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros HD ES" tvg-logo="http://pici.life/ES/torostv.png" group-title="Spain Sport",Toros HD ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/13548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB SAT ES" tvg-logo="" group-title="Spain Sport",ETB SAT ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/684922
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 1 ES" tvg-logo="" group-title="Spain Sport",ETB 1 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/684921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 2 ES" tvg-logo="" group-title="Spain Sport",ETB 2 ES
-http://mytv.fun:8080/kemal100/fkcjkrj77/684923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 1 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%201%20hd.png" group-title="Hungary Sport",Digi Sport 1 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13295
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 2 HD HU" tvg-logo="http://pici.life/HU/Digi%20sport%202%20hd.png" group-title="Hungary Sport",Digi Sport 2 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13294
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Sport 3 HD HU" tvg-logo="http://pici.life/HU/digi_sport_3_hd.jpg" group-title="Hungary Sport",Digi Sport 3 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13293
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 6 HU" tvg-logo="http://pici.life/viasat6.png" group-title="Hungary Sport",Viasat 6 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat 3 HU" tvg-logo="http://pici.life/HU/viasat3.png" group-title="Hungary Sport",Viasat 3 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/8040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2 HD HU" tvg-logo="http://pici.life/HU/tv2.png" group-title="Hungary Sport",TV2 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1 HD HU" tvg-logo="http://pici.life/HU/sport1cz.png" group-title="Hungary Sport",Sport 1 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 2 HD HU" tvg-logo="http://pici.life/HU/sport2cze.png" group-title="Hungary Sport",Sport 2 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Story 4 HU" tvg-logo="http://pici.life/HU/story4.png" group-title="Hungary Sport",Story 4 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum HD HU" tvg-logo="http://pici.life/HU/spektrum.png" group-title="Hungary Sport",Spektrum HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spektrum Home HU" tvg-logo="http://pici.life/HU/spektrumhome.png" group-title="Hungary Sport",Spektrum Home HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M5 HD HU" tvg-logo="http://pici.life/HU/m5.png" group-title="Hungary Sport",M5 HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1 Hungary HU" tvg-logo="http://pici.life/HU/m1.png" group-title="Hungary Sport",M1 Hungary HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13276
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fem3 HU" tvg-logo="http://pici.life/m3.png" group-title="Hungary Sport",Fem3 HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13274
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4 Sport HD HU" tvg-logo="http://pici.life/HU/M4_sport.png" group-title="Hungary Sport",M4 Sport HD HU
-http://mytv.fun:8080/kemal100/fkcjkrj77/13273
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="TPLEY", Azteca Uno (HD)
+http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="TPLEY", Clic
+http://cinematicket.club/cantp.php?c=11&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="TPLEY", Las Estrellas
+http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="TPLEY", Foro TV
+http://cinematicket.club/cantp.php?c=19&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="TPLEY", Canal 5
+http://cinematicket.club/cantp.php?c=20&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="TPLEY", Azteca 7
+http://cinematicket.club/cantp.php?c=21&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="TPLEY", NU9VE
+http://cinematicket.club/cantp.php?c=24&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="TPLEY", Canal Once
+http://cinematicket.club/cantp.php?c=25&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="TPLEY", Azteca Uno
+http://cinematicket.club/cantp.php?c=27&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="TPLEY", Teleformula
+http://cinematicket.club/cantp.php?c=32&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="TPLEY", Mexiquense Televisión
+http://cinematicket.club/cantp.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="TPLEY", ADN 40
+http://cinematicket.club/cantp.php?c=40&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="TPLEY", Corazón
+http://cinematicket.club/cantp.php?c=70&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="TPLEY", Mundo
+http://cinematicket.club/cantp.php?c=84&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="TPLEY", Azteca 7 (HD)
+http://cinematicket.club/cantp.php?c=317&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="TPLEY", Azteca 7
+http://cinematicket.club/cantp.php?c=322&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TPLEY", Imagen Televisión
+http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg" group-title="TPLEY", Imagen Multicast
+http://cinematicket.club/cantp.php?c=1449&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY", Canal 6 Monterrey (XHAW-TDT)
+http://cinematicket.club/cantp.php?c=2305&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="TPLEY", Ingenio TV
+http://cinematicket.club/cantp.php?c=401&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY", Canal 6 CDMX
+http://cinematicket.club/cantp.php?c=1253&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="TPLEY", PRONTO Aprende En Casa 3 Bachillerato
+http://cinematicket.club/cantp.php?c=1943&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="TPLEY", NU9VE
+http://cinematicket.club/cantp.php?c=1783&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="TPLEY", Las Estrellas (HD)
+http://cinematicket.club/cantp.php?c=1784&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="TPLEY", Foro TV (HD)
+http://cinematicket.club/cantp.php?c=4&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="TPLEY", Canal 5 (HD)
+http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="TPLEY", ADN 40 (HD)
+http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="TPLEY", Canal Once (HD)
+http://cinematicket.club/cantp.php?c=1942&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="TPLEY", MVS TV (XHSAW-TDT4)
+http://cinematicket.club/cantp.php?c=2149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="TPLEY", TVC
+http://cinematicket.club/cantp.php?c=2156&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="TPLEY", TV Cuatro
+http://cinematicket.club/cantp.php?c=2274&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhcnl.png" group-title="TPLEY", Televisa Monterrey (XHCNL-TDT)
+http://cinematicket.club/cantp.php?c=2307&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhp.jpg" group-title="TPLEY", Televisa Puebla
+http://cinematicket.club/cantp.php?c=2312&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="TPLEY", A+ (XHFN-TDT2)
+http://cinematicket.club/cantp.php?c=2316&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="TPLEY", TV Más
+http://cinematicket.club/cantp.php?c=2324&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="TPLEY", Canal del Congreso
+http://cinematicket.club/cantp.php?c=2331&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY", Canal 6 Bajío (XHLGG-TDT)
+http://cinematicket.club/cantp.php?c=2352&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TPLEY", Imagen Televisión (HD)
+http://cinematicket.club/cantp.php?c=2606&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="TPLEY", Canal 6 CDMX (HD)
+http://cinematicket.club/cantp.php?c=2882&p=3&k=tecnotv&f=.m3u8  
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="TPLEY", Tooncast
+http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="TPLEY", Discovery Kids
+http://cinematicket.club/cantp.php?c=109&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="TPLEY", Nick
+http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="TPLEY", Disney XD
+http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="TPLEY", Cartoon Network
+http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="TPLEY", Disney Channel
+http://cinematicket.club/cantp.php?c=113&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/boom.png" group-title="TPLEY", Boomerang
+http://cinematicket.club/cantp.php?c=115&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png" group-title="TPLEY", Baby TV
+http://cinematicket.club/cantp.php?c=116&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="TPLEY", Nick Jr.
+http://cinematicket.club/cantp.php?c=117&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="TPLEY", Disney Junior
+http://cinematicket.club/cantp.php?c=118&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="TPLEY", Baby First
+http://cinematicket.club/cantp.php?c=1984&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnick.png" group-title="TPLEY", Teennick
+http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png" group-title="TPLEY", Nat Geo Kids
+http://cinematicket.club/cantp.php?c=2373&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bit.png" group-title="TPLEY", BitMe
+http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="TPLEY", A3 Cine
+http://cinematicket.club/cantp.php?c=3112&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="TPLEY", TBS
+http://cinematicket.club/cantp.php?c=81&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="TPLEY", De Película Plus
+http://cinematicket.club/cantp.php?c=121&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TPLEY", Golden Plus
+http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TPLEY", Golden
+http://cinematicket.club/cantp.php?c=123&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="TPLEY", Golden Edge
+http://cinematicket.club/cantp.php?c=124&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="TPLEY", TNT
+http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png" group-title="TPLEY", TCM
+http://cinematicket.club/cantp.php?c=128&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="TPLEY", Space
+http://cinematicket.club/cantp.php?c=129&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="TPLEY", AMC
+http://cinematicket.club/cantp.php?c=131&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TPLEY", Studio Universal
+http://cinematicket.club/cantp.php?c=132&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="TPLEY", I-Sat
+http://cinematicket.club/cantp.php?c=135&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/europa.png" group-title="TPLEY", Europa Europa
+http://cinematicket.club/cantp.php?c=136&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/filmarts.jpg" group-title="TPLEY", Film & Arts
+http://cinematicket.club/cantp.php?c=137&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="TPLEY", FXM
+http://cinematicket.club/cantp.php?c=138&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="TPLEY", FXM
+http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="TPLEY", Fox Premium Series
+http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/morbido.png" group-title="TPLEY", Morbido TV
+http://cinematicket.club/cantp.php?c=140&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="TPLEY", Fox Premium Movies 
+http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="TPLEY", Cinecanal
+http://cinematicket.club/cantp.php?c=149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="TPLEY", Cinemax
+http://cinematicket.club/cantp.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="TPLEY", AMC
+http://cinematicket.club/cantp.php?c=328&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatino.png" group-title="TPLEY", De Película
+http://cinematicket.club/cantp.php?c=335&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="TPLEY", Fox Premium Action
+http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="TPLEY", Paramount Network
+http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png" group-title="TPLEY", Fox Premium Cinema
+http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="TPLEY", Fox Premium Classics
+http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="TPLEY", Cinema
+http://cinematicket.club/cantp.php?c=1787&p=3&k=tecnotv&f=.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png" group-title="TPLEY", Telemundo Internacional
+http://cinematicket.club/cantp.php?c=85&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="TPLEY", Fox Channel
+http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="TPLEY", Sony Channel
+http://cinematicket.club/cantp.php?c=48&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="TPLEY", Warner
+http://cinematicket.club/cantp.php?c=52&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="TPLEY", E!
+http://cinematicket.club/cantp.php?c=55&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="TPLEY", Universal
+http://cinematicket.club/cantp.php?c=57&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="TPLEY", SYFY
+http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="TPLEY", FX
+http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="TPLEY", A&E
+http://cinematicket.club/cantp.php?c=62&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="TPLEY", AXN
+http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="TPLEY", TNT Series
+http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="TPLEY", Glitz
+http://cinematicket.club/cantp.php?c=76&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="TPLEY", ElGourmet
+http://cinematicket.club/cantp.php?c=74&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starlife.png" group-title="TPLEY", Fox Life
+http://cinematicket.club/cantp.php?c=77&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="TPLEY", Distrito Comedia
+http://cinematicket.club/cantp.php?c=78&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="TPLEY", TruTV
+http://cinematicket.club/cantp.php?c=79&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="TPLEY", Tlnovelas
+http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="TPLEY", Lifetime
+http://cinematicket.club/cantp.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="TPLEY", Antena 3 Internacional
+http://cinematicket.club/cantp.php?c=199&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="TPLEY", Fox Channel (HD)
+http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="TPLEY", Warner (HD)
+http://cinematicket.club/cantp.php?c=205&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="TPLEY", Universal (HD)
+http://cinematicket.club/cantp.php?c=207&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="TPLEY", FX (HD)
+http://cinematicket.club/cantp.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="TPLEY", TruTV (HD)
+http://cinematicket.club/cantp.php?c=215&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="TPLEY", ¡Hola! TV
+http://cinematicket.club/cantp.php?c=219&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="TPLEY", Comedy Central
+http://cinematicket.club/cantp.php?c=340&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="TPLEY", Unicable
+http://cinematicket.club/cantp.php?c=1499&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png" group-title="TPLEY", Mas Chic
+http://cinematicket.club/cantp.php?c=1842&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="TPLEY", A3 Series
+http://cinematicket.club/cantp.php?c=2113&p=3&k=tecnotv&f=.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="TPLEY", ESPN Extra
+http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="TPLEY", ESPN
+http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="TPLEY", ESPN 2
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="TPLEY", Fox Sports
+http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="TPLEY", Fox Sports 2
+http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="TPLEY", TUDN (HD)
+http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="TPLEY", Fox Sports 3
+http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="TPLEY", Golf Channel
+http://cinematicket.club/cantp.php?c=179&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.jpg" group-title="TPLEY", AYM Sports
+http://cinematicket.club/cantp.php?c=180&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="TPLEY", ESPN 3
+http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="TPLEY", TUDN
+http://cinematicket.club/cantp.php?c=1049&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="TPLEY", Adrenalina Sports Network
+http://cinematicket.club/cantp.php?c=1799&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png" group-title="TPLEY", Latin American Sports
+http://cinematicket.club/cantp.php?c=2089&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/havoc.jpg" group-title="TPLEY", Havoc
+http://cinematicket.club/cantp.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcd.png" group-title="TPLEY", TVC Deportes
+http://cinematicket.club/cantp.php?c=2157&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="TPLEY", Claro Sports
+http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png" group-title="TPLEY", Fuel TV
+http://cinematicket.club/cantp.php?c=2587&p=3&k=tecnotv&f=.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="TPLEY", Investigation Discovery
+http://cinematicket.club/cantp.php?c=68&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" group-title="TPLEY", Garage TV 
+http://cinematicket.club/cantp.php?c=75&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="TPLEY", Discovery
+http://cinematicket.club/cantp.php?c=86&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="TPLEY", Animal Planet
+http://cinematicket.club/cantp.php?c=88&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="TPLEY", History
+http://cinematicket.club/cantp.php?c=89&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="TPLEY", National Geographic  
+http://cinematicket.club/cantp.php?c=91&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="TPLEY", Nat Geo Wild
+http://cinematicket.club/cantp.php?c=92&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="TPLEY", Discovery Theater HD
+http://cinematicket.club/cantp.php?c=95&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="TPLEY", Discovery Home & Health
+http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="TPLEY", TLC
+http://cinematicket.club/cantp.php?c=97&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png" group-title="TPLEY", Discovery Science
+http://cinematicket.club/cantp.php?c=98&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="TPLEY", Discovery World HD
+http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tve.png" group-title="TPLEY", TVE Internacional
+http://cinematicket.club/cantp.php?c=198&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="TPLEY", Food Network
+http://cinematicket.club/cantp.php?c=2145&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/startve.png" group-title="TPLEY", TVE Star HD
+http://cinematicket.club/cantp.php?c=2375&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="TPLEY", Discovery Turbo
+http://cinematicket.club/cantp.php?c=2379&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="TPLEY", Curiosity Stream
+http://cinematicket.club/cantp.php?c=2594&p=3&k=tecnotv&f=.m3u8  
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="TPLEY", MTV Live HD
+http://cinematicket.club/cantp.php?c=211&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="TPLEY", MTV
+http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="TPLEY", MTV Hits
+http://cinematicket.club/cantp.php?c=213&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv80.png" group-title="TPLEY", MTV 80s
+http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nickm.png" group-title="TPLEY", Nickmusic
+http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="TPLEY", VH1 Europe
+http://cinematicket.club/cantp.php?c=217&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png" group-title="TPLEY", Telehit Música
+http://cinematicket.club/cantp.php?c=218&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="TPLEY", Telehit Música Plus
+http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="TPLEY", Bandamax
+http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="TPLEY", Clic
+http://cinematicket.club/cantp.php?c=223&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="TPLEY", VH1 Europe (HD)
+http://cinematicket.club/cantp.php?c=334&p=3&k=tecnotv&f=.m3u8  
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="TPLEY", CNN International (HD)
+http://cinematicket.club/cantp.php?c=185&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="TPLEY", CNN International
+http://cinematicket.club/cantp.php?c=186&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="TPLEY", CNN En Español
+http://cinematicket.club/cantp.php?c=187&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wobi.png" group-title="TPLEY", WOBI 
+http://cinematicket.club/cantp.php?c=102&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/foxn.png" group-title="TPLEY", Fox News
+http://cinematicket.club/cantp.php?c=188&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bloom.png" group-title="TPLEY", Bloomberg
+http://cinematicket.club/cantp.php?c=190&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bbcwn.png" group-title="TPLEY", BBC World News
+http://cinematicket.club/cantp.php?c=191&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/alj.png" group-title="TPLEY", Al Jaazera
+http://cinematicket.club/cantp.php?c=192&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ntn24.png" group-title="TPLEY", Nuestra Tele Noticias 24
+http://cinematicket.club/cantp.php?c=194&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="TPLEY", Justicia TV
+http://cinematicket.club/cantp.php?c=196&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hln.png" group-title="TPLEY", HLN
+http://cinematicket.club/cantp.php?c=197&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="TPLEY", DW (Español)
+http://cinematicket.club/cantp.php?c=203&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="TPLEY", RT (English)
+http://cinematicket.club/cantp.php?c=999&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="TPLEY", Milenio Televisión (HD)
+http://cinematicket.club/cantp.php?c=1250&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="TPLEY", Milenio Televisión
+http://cinematicket.club/cantp.php?c=1252&p=3&k=tecnotv&f=.m3u8   
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="TPLEY", El Financiero Bloomberg 
+http://cinematicket.club/cantp.php?c=1649&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="TPLEY", RT (Español)
+http://cinematicket.club/cantp.php?c=2091&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png" group-title="TPLEY", France 24 (Español)
+http://cinematicket.club/cantp.php?c=2402&p=3&k=tecnotv&f=.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="SOLO PARA ROKOOS", Azteca Uno
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/495/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="SOLO PARA ROKOOS", Las Estrellas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/191/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="SOLO PARA ROKOOS", Imagen Television
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/598/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="SOLO PARA ROKOOS", Foro TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/193/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="SOLO PARA ROKOOS", Canal 5
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/192/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="SOLO PARA ROKOOS", Canal 6 CDMX (XHTDMX-TDT)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/234/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="SOLO PARA ROKOOS", Milenio Televisión (XHTDMX-TDT2)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/199/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="SOLO PARA ROKOOS", Canal 6 Monterrey (XHAW-TDT)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97868/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="SOLO PARA ROKOOS", MVS TV (XHTDMX-TDT4)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/307/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="SOLO PARA ROKOOS", Azteca 7
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/194/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="SOLO PARA ROKOOS", NU9VE
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/196/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="SOLO PARA ROKOOS", Canal Once
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/197/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onyn.png" group-title="SOLO PARA ROKOOS", Once Niñas y Niños
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/472/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="SOLO PARA ROKOOS", Canal Catorce
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/471/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="SOLO PARA ROKOOS", Ingenio TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/469/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="SOLO PARA ROKOOS", TV UNAM
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/239/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="SOLO PARA ROKOOS", Canal 22
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/201/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="SOLO PARA ROKOOS", Canal 22.2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94119/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="SOLO PARA ROKOOS", Canal Del Congreso
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94120/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="SOLO PARA ROKOOS", Fox Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97891/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="SOLO PARA ROKOOS", Sony Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97896/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="SOLO PARA ROKOOS", Unicable
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/208/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pasin.png" group-title="SOLO PARA ROKOOS", Pasiones
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94104/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="SOLO PARA ROKOOS", Warner
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97892/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="SOLO PARA ROKOOS", E!
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/210/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="SOLO PARA ROKOOS", FX
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97898/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="SOLO PARA ROKOOS", Universal
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97893/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="SOLO PARA ROKOOS", TNT Series
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/223/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starlife.png" group-title="SOLO PARA ROKOOS", Fox Life
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/229/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="SOLO PARA ROKOOS", SYFY
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/213/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="SOLO PARA ROKOOS", TBS
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/227/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="SOLO PARA ROKOOS", Investigation Discovery
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="SOLO PARA ROKOOS", A&E
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97906/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="SOLO PARA ROKOOS", Lifetime
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/240/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="SOLO PARA ROKOOS", AXN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97905/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="SOLO PARA ROKOOS", Universo
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="SOLO PARA ROKOOS", Estrella TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97889/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS", Telemundo Pac
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97838/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="SOLO PARA ROKOOS", Telemundo
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88794/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="SOLO PARA ROKOOS", Univisión Pac
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93844/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="SOLO PARA ROKOOS", UniMas
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94080/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="SOLO PARA ROKOOS", Galavisión
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94101/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wkaq.png" group-title="SOLO PARA ROKOOS", Telemundo PR
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/544/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa.png" group-title="SOLO PARA ROKOOS", WAPA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/545/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa2.png" group-title="SOLO PARA ROKOOS", WAPA Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/546/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wipr.png" group-title="SOLO PARA ROKOOS", WIPR
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/547/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unipr.png" group-title="SOLO PARA ROKOOS", Univisión PR
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/548/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/megapr.jfif" group-title="SOLO PARA ROKOOS", MegaTV PR
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94111/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/p2.jpg" group-title="SOLO PARA ROKOOS", Punto 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97812/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="SOLO PARA ROKOOS", Antena 3 Internacional
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/241/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="SOLO PARA ROKOOS", A3 Series
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/458/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="SOLO PARA ROKOOS", ¡Hola! TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/457/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="SOLO PARA ROKOOS", MTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97930/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="SOLO PARA ROKOOS", MTV Hits
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/463/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="SOLO PARA ROKOOS", Comedy Central
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/231/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="SOLO PARA ROKOOS", Exa TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/399/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/htv.png" group-title="SOLO PARA ROKOOS", HTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/401/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="SOLO PARA ROKOOS", Telehit Música Plus
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/305/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="SOLO PARA ROKOOS", Bandamax
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/306/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="SOLO PARA ROKOOS", VideoRola
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/461/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="SOLO PARA ROKOOS", Teleritmo
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97866/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png" group-title="SOLO PARA ROKOOS", Nat Geo Kids
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94121/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="SOLO PARA ROKOOS", Discovery Kids
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/246/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="SOLO PARA ROKOOS", Nick
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/247/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="SOLO PARA ROKOOS", Disney Channel
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97903/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="SOLO PARA ROKOOS", Disney XD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/248/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="SOLO PARA ROKOOS", Disney Junior
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/255/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="SOLO PARA ROKOOS", Cartoon Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/249/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png" group-title="SOLO PARA ROKOOS", Baby TV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/464/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="SOLO PARA ROKOOS", Nick Jr.
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/253/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS", Discovery
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/235/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="SOLO PARA ROKOOS", Animal Planet
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97929/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="SOLO PARA ROKOOS", TLC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/215/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="SOLO PARA ROKOOS", Discovery Home & Health
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97904/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="SOLO PARA ROKOOS", Discovery Theater HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93864/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="SOLO PARA ROKOOS", Discovery World HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93866/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="SOLO PARA ROKOOS", National Geographic
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97927/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="SOLO PARA ROKOOS", Nat Geo Wild
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97928/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="SOLO PARA ROKOOS", History
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97897/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/h2.png" group-title="SOLO PARA ROKOOS", History 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/224/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="SOLO PARA ROKOOS", El Gourmet
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/225/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="SOLO PARA ROKOOS", Discovery En Español
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="SOLO PARA ROKOOS", Fox Sports
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="SOLO PARA ROKOOS", Fox Sports 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="SOLO PARA ROKOOS", Fox Sports 3
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/297/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="SOLO PARA ROKOOS", ESPN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="SOLO PARA ROKOOS", ESPN 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="SOLO PARA ROKOOS", ESPN 3
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/424/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="SOLO PARA ROKOOS", ESPN Extra
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94068/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS", TUDN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS", TUDN (Alt.)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/560/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS", TUDN (Alt. 2)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/561/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="SOLO PARA ROKOOS", Claro Sports
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/421/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="SOLO PARA ROKOOS", Adrenalina Sports Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97886/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS", Bein Ñ HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="SOLO PARA ROKOOS", Bein Ñ SD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="SOLO PARA ROKOOS", NBCSN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/487/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="SOLO PARA ROKOOS", TUDN USA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/597/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="SOLO PARA ROKOOS", ESPN Deportes
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="SOLO PARA ROKOOS", TVC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/393/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="SOLO PARA ROKOOS", CNN En Español
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/300/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="SOLO PARA ROKOOS", Teleformula
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/600/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="SOLO PARA ROKOOS", DW (Español)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93853/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="SOLO PARA ROKOOS", TNT
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="SOLO PARA ROKOOS", Space
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97895/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="SOLO PARA ROKOOS", Cinemax
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/427/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mcinema.png" group-title="SOLO PARA ROKOOS", MC
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/430/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mpremier.png" group-title="SOLO PARA ROKOOS", Multipremier
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/429/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="SOLO PARA ROKOOS", De Película Plus
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/493/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="SOLO PARA ROKOOS", Cine Latino
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/431/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="SOLO PARA ROKOOS", Cinecanal
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/491/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="SOLO PARA ROKOOS", FXM
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/466/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="SOLO PARA ROKOOS", Paramount Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/261/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="SOLO PARA ROKOOS", Studio Universal
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/267/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="SOLO PARA ROKOOS", Cinema
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/494/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SOLO PARA ROKOOS", Fox Premium Series (E)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97899/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="SOLO PARA ROKOOS", Fox Premium Series
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/274/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Action (E)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97901/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Action
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/277/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Movies (E)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97900/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="SOLO PARA ROKOOS", Fox Premium Movies
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/278/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="SOLO PARA ROKOOS", Fox Premium Family
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/275/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="SOLO PARA ROKOOS", Fox Premium Classics
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/279/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgcpre.png" group-title="SOLO PARA ROKOOS", Golden Premier
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/454/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="SOLO PARA ROKOOS", HBO
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97931/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="SOLO PARA ROKOOS", HBO 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/280/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="SOLO PARA ROKOOS", HBO Plus
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/282/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="SOLO PARA ROKOOS", HBO Family
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/284/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="SOLO PARA ROKOOS", HBO Xtreme
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/288/12?f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO PP1
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88792/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO PP2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88793/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 1
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97881/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97882/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 3
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97883/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 4
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97884/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 5
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/562/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 6
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 7
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/576/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/even.png" group-title="SOLO PARA ROKOOS", EVENTO 8
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/577/12?f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Baby First
+http://miap.xyz/17/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cartoon Network
+http://miap.xyz/24/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery Kids
+http://miap.xyz/38/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Disney Channel
+http://miap.xyz/44/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Disney Junior
+http://miap.xyz/45/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Disney XD
+http://miap.xyz/46/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Nat Geo Kids
+http://miap.xyz/121/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Nick
+http://miap.xyz/123/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Nick Jr.
+http://miap.xyz/125/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnick.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Teennick
+http://miap.xyz/124/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Tooncast
+http://miap.xyz/148/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Animal Planet
+http://miap.xyz/7/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery
+http://miap.xyz/35/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery Turbo
+http://miap.xyz/42/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery Theater HD
+http://miap.xyz/40/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery Science
+http://miap.xyz/39/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery Home & Health
+http://miap.xyz/37/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/civil.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery Civilization/HGTV
+http://miap.xyz/36/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Investigation Discovery (Andina/Sur)
+http://miap.xyz/105/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TLC
+http://miap.xyz/41/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Discovery World HD
+http://miap.xyz/43/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Food Network
+http://miap.xyz/61/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", History
+http://miap.xyz/99/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/h2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", History 2 (Andina/Sur)
+http://miap.xyz/100/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Nat Geo Wild
+http://miap.xyz/122/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", National Geographic
+http://miap.xyz/120/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ElGourmet
+http://miap.xyz/49/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Mas Chic
+http://miap.xyz/111/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", AMC
+http://miap.xyz/6/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", A&E
+http://miap.xyz/3/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Warner (Andina/Sur)
+http://miap.xyz/163/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Channel
+http://miap.xyz/63/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Universal
+http://miap.xyz/159/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", SYFY
+http://miap.xyz/137/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starlife.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Life
+http://miap.xyz/64/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", AXN
+http://miap.xyz/9/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Sony Channel
+http://miap.xyz/132/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", De Película Plus
+http://miap.xyz/34/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cinema
+http://miap.xyz/11/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TNT
+http://miap.xyz/146/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Space
+http://miap.xyz/133/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Studio Universal
+http://miap.xyz/134/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", FX
+http://miap.xyz/90/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", FXM
+http://miap.xyz/91/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TBS
+http://miap.xyz/138/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TCM
+http://miap.xyz/139/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cinecanal
+http://miap.xyz/25/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cinemax
+http://miap.xyz/26/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Paramount Network
+http://miap.xyz/127/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TNT Series
+http://miap.xyz/147/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Action (E)
+http://miap.xyz/65/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Cinema (E)
+http://miap.xyz/67/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcomedy.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Comedy (E)
+http://miap.xyz/69/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Classics (E)
+http://miap.xyz/68/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Family (E)
+http://miap.xyz/70/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Series (E)
+http://miap.xyz/72/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Premium Movies (E)
+http://miap.xyz/71/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Golden
+http://miap.xyz/95/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Golden Edge
+http://miap.xyz/96/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO (E)
+http://miap.xyz/74/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO 2 (E)
+http://miap.xyz/75/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO Plus (E)
+http://miap.xyz/78/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO Family (E)
+http://miap.xyz/76/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hsign.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO Signature (E)
+http://miap.xyz/80/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/max.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO Mundi (E)
+http://miap.xyz/77/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maxup.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO Pop (E)
+http://miap.xyz/79/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", HBO Xtreme (E)
+http://miap.xyz/82/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Tlnovelas
+http://miap.xyz/145/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Corazon
+http://miap.xyz/13/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Comedy Central
+http://miap.xyz/30/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Distrito Comedia
+http://miap.xyz/47/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", E!
+http://miap.xyz/50/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Lifetime
+http://miap.xyz/109/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Mundo
+http://miap.xyz/14/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ¡Hola! TV
+http://miap.xyz/101/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Glitz
+http://miap.xyz/94/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TruTV
+http://miap.xyz/149/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wscv.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Telemundo 51 Miami
+http://miap.xyz/151/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Unicable
+http://miap.xyz/158/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wltv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Univisión 23 Miami
+http://miap.xyz/152/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dtvsp.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", DirecTV Sports Plus
+http://miap.xyz/166/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dtvs2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", DirecTV Sports 2
+http://miap.xyz/164/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dtvs2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", DirecTV Sports 2 (Alt.)
+http://miap.xyz/165/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Sports Sur
+http://miap.xyz/86/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Sports 2 Sur
+http://miap.xyz/87/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Sports 3 Sur
+http://miap.xyz/88/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Sports
+http://miap.xyz/83/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Sports 2
+http://miap.xyz/84/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Fox Sports 3
+http://miap.xyz/85/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN Sur
+http://miap.xyz/55/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN 2 Sur
+http://miap.xyz/56/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN 3 Sur
+http://miap.xyz/57/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN Extra Sur
+http://miap.xyz/58/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN
+http://miap.xyz/52/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN 2
+http://miap.xyz/51/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN 3
+http://miap.xyz/53/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ESPN Extra
+http://miap.xyz/54/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gol.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", GolTV
+http://miap.xyz/172/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gol.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", GolTV (Alt.)
+http://miap.xyz/178/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tntsp.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TNT Sports
+http://miap.xyz/200/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TUDN USA
+http://miap.xyz/150/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Claro Sports
+http://miap.xyz/33/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Claro Sports 2
+http://miap.xyz/32/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Golf Channel
+http://miap.xyz/97/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Garage TV
+http://miap.xyz/93/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CNN En Español
+http://miap.xyz/27/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CNN International
+http://miap.xyz/29/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Justicia TV
+http://miap.xyz/22/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvn24.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", 24 Horas
+http://miap.xyz/204/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", RT (Español)
+http://miap.xyz/131/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Clic
+http://miap.xyz/12/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", MTV
+http://miap.xyz/115/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", MTV Live HD
+http://miap.xyz/117/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nickm.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Nick Music
+http://miap.xyz/126/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", VH1 Europe
+http://miap.xyz/161/serverkey.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Azteca Uno
+http://miap.xyz/16/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Las Estrellas
+http://miap.xyz/107/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Imagen Televisión
+http://miap.xyz/103/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Foro TV
+http://miap.xyz/62/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 5
+http://miap.xyz/21/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Azteca 7
+http://miap.xyz/15/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ADN 40
+http://miap.xyz/5/serverkey.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unoec.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal UNO
+http://miap.xyz/167/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ecua.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 7 EC
+http://miap.xyz/169/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ev.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Ecuavisa
+http://miap.xyz/170/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gama.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Gamavision
+http://miap.xyz/171/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/oro.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Oromar TV
+http://miap.xyz/173/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rts.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", RTS
+http://miap.xyz/174/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ta.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TeleAmazonas
+http://miap.xyz/176/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcec.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TVC EC
+http://miap.xyz/177/serverkey.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cablen.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Cablenoticias
+http://miap.xyz/179/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tr3cep.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Tr3ce
+http://miap.xyz/180/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/1col.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 1
+http://miap.xyz/181/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/caracol.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Caracol Internacional
+http://miap.xyz/182/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/caracol.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Caracol Televisión
+http://miap.xyz/183/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/city.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CityTV
+http://miap.xyz/184/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tiempo.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", El Tiempo Televisión
+http://miap.xyz/185/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ntn24.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Nuestra Tele Noticias 24
+http://miap.xyz/186/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", RCN
+http://miap.xyz/187/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capitalbog.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal Capital
+http://miap.xyz/227/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/26ar.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 26 TV
+http://miap.xyz/190/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ls84.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Telefe
+http://miap.xyz/195/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlx.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Telemax
+http://miap.xyz/197/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tred.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Telered
+http://miap.xyz/199/serverkey.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/13c.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", 13c
+http://miap.xyz/201/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/13i.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", 13i
+http://miap.xyz/202/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/13cl.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Canal 13
+http://miap.xyz/203/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cdf.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CDF
+http://miap.xyz/206/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cdf.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CDF (Alt.)
+http://miap.xyz/207/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cdo.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CDO
+http://miap.xyz/208/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cdo.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CDO (Alt.)
+http://miap.xyz/210/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/chv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Chilevisión
+http://miap.xyz/211/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnncl.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", CNN CL
+http://miap.xyz/212/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/red.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", La Red
+http://miap.xyz/214/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mega.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Mega
+http://miap.xyz/215/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvn.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TVN
+http://miap.xyz/217/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/atv.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ATV
+http://miap.xyz/224/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ipe.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", ipe
+http://miap.xyz/225/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latina.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Frecuencia Latina
+http://miap.xyz/228/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latele.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Latele
+http://miap.xyz/230/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/movidep.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Movistar Deportes
+http://miap.xyz/231/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pantel.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Panamericana
+http://miap.xyz/234/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvpe.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", TVpe
+http://miap.xyz/235/serverkey.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wipr.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", WIPR
+http://miap.xyz/237/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wkaq.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Telemundo PR
+http://miap.xyz/239/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unipr.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", Univisión PR
+http://miap.xyz/240/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", WAPA
+http://miap.xyz/241/serverkey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa2.png" group-title="TECNO/BLACK (ACTIVACIÓN REQUERIDA)", WAPA Deportes
+http://miap.xyz/242/serverkey.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN", Enlace
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93862/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN", María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c10.jpg" group-title="FTA (LOCALES LIBRES)", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="FTA (LOCALES LIBRES)", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="FTA (LOCALES LIBRES)", Teleformula | SD
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onceint.png" group-title="FTA (LOCALES LIBRES)", Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)", Canal Del Congreso 45.1 | SD
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="FTA (LOCALES LIBRES)", Canal Del Congreso 45.2 | SD
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", PRONTO Aprende En Casa 3 Secundaria 3.2/20.1 | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="FTA (LOCALES LIBRES)", PRONTO Aprende En Casa 3 Bachillerato 6.3 | HD
+http://mdstrm.com/live-stream-playlist_2500/5cfe8974ef9acc25607a7dec.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ochotv.png" group-title="FTA (LOCALES LIBRES)", Quiero TV | SD
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)", Canal 4 RCG | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)", RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)", RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rcg.jpg" group-title="FTA (LOCALES LIBRES)", RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 MONTERREY
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 CDMX
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 LAGUNA
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 GUADALAJARA
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 PUEBLA
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 BAJÍO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 SALTILLO
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="FTA (LOCALES LIBRES)", CANAL 6 JUAREZ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="FTA (LOCALES LIBRES)", TELERITMO
+http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="FTA (LOCALES LIBRES)", A+ METROPOLITANO
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="FTA (LOCALES LIBRES)", CANAL CATORCE
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="FTA (LOCALES LIBRES)", CANAL 22
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="FTA (LOCALES LIBRES)", CANAL 22.2
+https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="FTA (LOCALES LIBRES)", MEXIQUENSE TELEVISIÓN
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amx.jpg" group-title="FTA (LOCALES LIBRES)", AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/set.png" group-title="FTA (LOCALES LIBRES)", SET TELEVISIÓN PUEBLA
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO MEDIA
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="FTA (LOCALES LIBRES)", TV CUATRO 3 EXPRESA
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="FTA (LOCALES LIBRES)", IMRyT
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="FTA (LOCALES LIBRES)", C21 CDMX
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="FTA (LOCALES LIBRES)", JALISCO TV
+https://5b59c7a47236a.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/28nl.png" group-title="FTA (LOCALES LIBRES)", CANAL 28 NL
+https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udg44.png" group-title="FTA (LOCALES LIBRES)", CANAL 44
+https://liveingesta118.cdnmedia.tv/udgmxlive/smil:canal44.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/udgnot.png" group-title="FTA (LOCALES LIBRES)", CANAL 44 NOTICIAS
+https://liveingesta118.cdnmedia.tv/udgmxlive/smil:44noticias.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="FTA (LOCALES LIBRES)", DIEZ CHIAPAS
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/smr.png" group-title="FTA (LOCALES LIBRES)", SM
+https://5e307acc9a171.streamlock.net:1936/noticias/noticias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="FTA (LOCALES LIBRES)", TV MAS 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="FTA (LOCALES LIBRES)", SIZART CANAL 24
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rtq.png" group-title="FTA (LOCALES LIBRES)", RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="FTA (LOCALES LIBRES)", RT (ESPAÑOL)
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="FTA (LOCALES LIBRES)", TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
